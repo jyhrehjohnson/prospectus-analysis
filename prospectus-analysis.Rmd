@@ -1,0 +1,17 @@
+---
+title: "prospectus-analysis"
+author: "Jyhreh Johnson"
+date: "2025-06-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Preliminaries
+```{Load in Prelim libraries}
+library(tidyr)
+library(ggplot2)
+library(data.table)
+```
