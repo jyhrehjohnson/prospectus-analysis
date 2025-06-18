@@ -11,7 +11,52 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #Preliminaries
 ```{Load in Prelim libraries}
+library(ape)
+library(phytools)
 library(tidyr)
 library(ggplot2)
 library(data.table)
 ```
+
+# Simulate a tree with 10 hominin species
+```{Simulation}
+set.seed(42)
+tree <- rtree(10)
+tree$tip.label <- c("A_afarensis", "A_africanus", "P_boisei", "P_robustus","P_aethiopicus", "A_garhi", "A_sediba", "A_deyiremida","A_bahrelghazali", "A_anamensis")
+plot(tree, main="Hominin Phylogeny")
+```
+
+# Character State Scores: 0 = absent, 1 = present
+```{Character State Scores}
+char_states <- c(1, 1, 0, 1, 0, 0, 0, 1, 0, 1)
+names(char_states) <- tree$tip.label
+```
+
+# Continuous Trait: Cranial Capacity in cc
+```{Code for Continuous Trait}
+cranial_capacity <- c(400, 410, 420, 430, 450, 500, 510, 520, 530, 550)
+names(cranial_capacity) <- tree$tip.label
+```
+
+# Estimate ancestral states for a discrete character using maximum likelihood
+```{Discrete Trait Maximum likelihood}
+fit_disc <- ace(char_states, tree, type="discrete", model="ER")
+print(fit_disc$lik.anc) # Likelihood of each state at each node
+```
+
+```{Disctrete Trait: Reconstruction}
+plot(tree, main="Ancestral State Estimation (Discrete)")
+nodelabels(pie=fit_disc$lik.anc, piecol=c("lightblue", "orange"), cex=0.7)
+tiplabels(pch=21, bg=c("lightblue", "orange")[char_states+1], cex=1.2)
+```
+
+# Estimate ancestral states for a continuous character
+```{Continuous Trait}
+fit_cont <- fastAnc(tree, cranial_capacity, CI=TRUE)
+print(fit_cont$ace) # Estimated ancestral values at each node
+```
+
+``` {Phylogeny}
+phenogram(tree, cranial_capacity, ftype="off", main="Cranial Capacity Evolution")
+```
+
