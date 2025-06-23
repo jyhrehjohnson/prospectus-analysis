@@ -21,25 +21,29 @@ library(ggplot2)
 ```
 
 #Read in Files
-```{Read in necessary matrix files}
+```{Read in Strait Matrix Files}
 #Strait 1997 Matrix Australopithecines ONLY
 strait97_Aus_matrix <-read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/strait 1997 matrix(australopithecus).csv")
 
 strait97_Aus_matrix <- strait97_Aus_matrix[, -c(4)] #Clear our empty columns
 
-strait97_codekey <-read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/strait 1997 matrix(Code Key).csv")
+strait97_codekey <-read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/strait 1997 matrix(Code Key).csv") #Load in code key from Strait 1997 
+```
 
+```{Read in Dembo Matrix Files}
 #Dembo 2015 Matrix Australopithecines ONLY
 dembo15_Aus_matrix <- read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/dembo 2015 matrix(australopithecus).csv")
 
 dembo15_Aus_matrix <- dembo15_Aus_matrix[, -c(14:29)] #Clear our empty columns
 
-dembo15_codekey <- read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/dembo 2015 matrix(Code Key).csv")
+dembo15_codekey <- read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/dembo 2015 matrix(Code Key).csv") # Load in code key from Box folder
 ```
 
-#Merge Data Frames
-```{Merge}
-merged_matrix <-merge(strait97_matrix, dembo15_matrix)
+#Merge Strait 1997 and Dembo 2015 by Character
+```{Merge data frames}
+merged_matrix <- merge(strait97_Aus_matrix, dembo15_Aus_matrix, by = "Character", all = TRUE)
+
+merged_matrix <- merged_matrix[, -c(22:36)]
 ```
 
 # Simulate a tree with 10 hominin species
