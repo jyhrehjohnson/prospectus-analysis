@@ -1,0 +1,381 @@
+Supermatrix_ID,Anatomical Region,Composite,ID,Gorilla_gorilla,Pan_troglodytes,S_tchadensis,Ar_ramidus,A_anamensis,A_afarensis,A_africanus,A_garhi,K_platyops,P_robustus,P_boisei,P_aethiopicus,A_sediba,H_habilis,H_rudolfensis,H_ergaster,H_erectus,H_heidelbergensis,H_neanderthalensis,H_floresiensis,H_sapiens,H_antecessor,small_bodied_Dmanisi,D4500
+1,Cranial,Vault,1,small,small,small,NA,NA,small,small,small,small,small,small,small,small,Intermediate,Medium,Medium,Medium & Large,Large & Very large,Very large,NA,Large&Very large,NA,Intermediate&Medium,Intermediate
+2,Cranial,Vault,2,Lateral flare with posterior protrusion,Lateral flare with posterior protrusion,NA,NA,NA,Lateral flare with posterior protrusion,Lateral flare with posterior protrusion,NA,NA,Tucked,Tucked,Lateral flare with posterior protrusion,NA,Tucked,Tucked,Tucked,NA,NA,NA,NA,Tucked,NA,NA,NA
+3,Cranial,Vault,7,Thin,Thin,NA,NA,NA,Thick,Thin,NA,NA,Thin,Thin,Thin,NA,Thin,Thin&Intermediate,Intermediate&Thick,Thin&Intermediate&Thick,Thin&Intermediate&Thick,NA,NA,NA,NA,Thin&Intermediate&Thick,Thick
+4,Cranial,Vault,8,Low,Low,NA,NA,NA,Low,High,NA,NA,NA,Low,Low,NA,High,NA,High,High,NA,NA,NA,NA,NA,NA,NA
+5,Cranial,Vault,9,NA,NA,NA,NA,NA,NA,Long low cranium,NA,NA,NA,NA,NA,NA,Long low cranium,NA,Long low cranium,Long low cranium,Long low cranium&Short high cranium,Short high cranium,NA,Short high cranium,NA,Long low cranium,NA
+6,Cranial,Vault,12,Moderate,Moderate,NA,NA,NA,Moderate,High,NA,NA,Low,Low,NA,NA,Moderate & High,High,Moderate&High,Moderate,Moderate,Moderate,NA,High,NA,Moderate,NA
+7,Cranial,Vault,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Close to cranial base,NA,Close to cranial base,Close to cranial base,Close to cranial base&Cranial base biparietal similar,At biparietal,NA,NA,NA,Close to cranial base,NA
+8,Cranial,Vault,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Low and broad,Low and broad,Low and broaden bombe&en maison,en bombe,NA,en maison,NA,Low and broad,NA
+9,Cranial,Vault,10,Deviates from circle,Deviates from circle,NA,NA,NA,Deviates from circle,NA,NA,NA,Deviates from circle,Deviates from circle,Deviates from circle,NA,Deviates from circle,Aligned with circle,Deviates from circle,Deviates from circle,NA,NA,NA,NA,NA,NA,NA
+10,Cranial,Vault,11,Aligned with circle,Aligned with circle,NA,NA,NA,Deviates from circle,Aligned with circle,NA,NA,NA,Deviates from circle,Deviates from circle,NA,Aligned with circle,Aligned with circle,Aligned with circle,Aligned with circle,NA,NA,NA,NA,NA,NA,NA
+11,Cranial,Parietal,12,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA,NA,NA,Present,Present,Present,Present,Absent,NA,NA,NA,NA,Present,NA
+12,Cranial,Parietal,3,Absent,Absent,NA,NA,NA,Absent,Absent,Absent,NA,Absent,Absent,Absent,Present,Present,Present,Present,Absent&Present,Present,Absent&Present,Absent,Absent&Present,NA,Present,NA
+13,Cranial,Parietal,1,Present,Absent,Present&Absent,NA,NA,Present,Present,Present,Present,Present,Present,Present,NA,Present,Absent,Absent,Absent,Absent,Absent,NA,Absent,NA,NA,NA
+14,Cranial,Parietal,6,Present,Present,NA,NA,NA,Absent,Present,NA,NA,NA,Present,NA,NA,Absent,Absent,Absent&Present,Present,Absent&Present,Absent&Present,Absent,Absent&Present,Absent,Absent&Present,NA
+15,Cranial,Parietal,2,Absent,Absent,NA,NA,NA,Absent,Absent,NA,NA,Absent,Absent&Present,Present,NA,Absent,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA
+16,Cranial,Face,1,Intermediate,Intermediate,Intermediate,NA,NA,NA,Intermediate,NA,NA,Broad,Broad,Intermediate,NA,Intermediate,Broad,Broad,NA,NA,NA,NA,Intermediate,NA,NA,NA
+17,Cranial,Face,4,NA,NA,NA,NA,NA,Tapered,Tapered,NA,NA,Tapered,Tapered,Tapered,Squared,Squared,Squared,Squared,Squared,NA,NA,NA,NA,NA,Squared,Squared
+18,Cranial,Face,5,NA,NA,NA,NA,NA,Bipartite,Bipartite&Straight,Bipartite,NA,Straight,Straight,Straight,Straight,Bipartite&Straight,Straight,Straight,NA,NA,NA,NA,NA,NA,NA,NA
+19,Cranial,Face,2,Prognathic,Prognathic,Mesognathic,NA,NA,Prognathic&Mesognathic,Prognathic&Mesognathic,Prognathic,Mesognathic,Mesognathic,Mesognathic,Prognathic,Mesognathic,Mesognathic,Mesognathic,Orthognathic,NA,NA,NA,NA,Orthognathic,NA,NA,NA
+20,Cranial,Face,3,Low,Low,High,NA,NA,Low,Low,Low,Low,High,High,High,Low,Low,Low,Low,NA,NA,NA,NA,Low,NA,NA,NA
+21,Cranial,Zygomatic,7,Posterior,Posterior,Posterior,NA,NA,Posterior,Posterior&Intermediate,Posterior,Intermediate,Anterior,Anterior,Anterior,Posterior,Posterior,Intermediate,Posterior,NA,NA,NA,NA,Posterior,NA,NA,NA
+22,Cranial,Frontal,18,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,NA,Absent,Present,Absent&Present,Absent,NA,Absent&Present,NA,NA,NA
+23,Cranial,Frontal,20,Absent,Absent,NA,NA,NA,NA,Precoronal depression present,NA,NA,NA,Absent,NA,NA,Absent,Absent,Absent,Absent&Precoronal plane present&Precoronal depression present,Absent&Precoronal plane present&Precoronal depression present,Absent&Precoronal plane present&Precoronal depression present,NA,Absent,NA,NA,NA
+24,Cranial,Frontal,19,Absent,Present at upper part of squama,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,Absent,Absent,Absent&Present at upper part of squama&Present and continues laterally,Absent,Absent,NA,Absent&Present at upper part of squama,NA,NA,NA
+25,Cranial,Frontal,14,Linear,Linear&Convex,NA,NA,NA,Linear,Linear&Convex,NA,NA,NA,Convex,NA,NA,Linear&Convex,Convex,Linear&Convex,Linear&Convex,Convex,Convex,NA,Convex,NA,Convex,NA
+26,Cranial,Frontal,21,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,Absent,Absent,Absent&Present,Absent&Present,Absent,NA,Absent&Present,Absent,Absent,NA
+27,Cranial,Frontal,3,Absent,Present,NA,NA,NA,Absent,Absent&Present,NA,NA,NA,Absent,NA,NA,Present,Absent&Present,Present,Present,Absent&Present,Absent,NA,Absent&Present,NA,Absent&Present,NA
+28,Cranial,Frontal,4,Prominent,Prominent,Prominent,NA,NA,NA,Prominent,Prominent,NA,Prominent,Prominent,Prominent,NA,Weak&Prominent,Weak&Prominent,Weak&Prominent,Weak&Prominent,Prominent,Prominent,NA,Weak&Prominent,Prominent,Weak&Prominent,Prominent
+29,Cranial,Frontal,24,NA,NA,NA,NA,NA,Not a block,Not a block&Block,Not a block,NA,Block,Block,Not a block,Block,Not a block,Not a block&Block,Not a block,NA,NA,NA,NA,NA,NA,NA,NA
+30,Cranial,Frontal,17,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,Absent,Absent,Absent,Absent,Absent,NA,Absent,NA,NA,NA
+31,Cranial,Frontal,15,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,Absent,Absent,Absent&Present,Present,Absent,NA,Present,NA,NA,NA
+32,Cranial,Frontal,12,Absent,Present,NA,NA,NA,Absent,Present,NA,NA,NA,NA,NA,NA,Absent&Present,Absent,Absent&Present,Absent&Present,Absent&Present,Absent&Present,Present,Absent&Present,NA,Absent,Absent
+33,Cranial,Frontal,13,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,Absent,Present,Present,Absent,Present,NA,Absent,NA,NA,NA
+34,Cranial,Frontal,16,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,Absent,Present,Absent,Absent&Present,Absent&Present,NA,Present,NA,NA,NA
+35,Cranial,Frontal,23,NA,NA,NA,NA,NA,Present,Absent,Present,NA,Present,Present,Present,Absent,Absent,Absent,Absent,NA,NA,NA,NA,NA,NA,NA,NA
+36,Cranial,Frontal,22,Present,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Present,Absent,Absent,Absent&Present,Absent&Present,Absent,NA,Absent,NA,NA,NA
+37,Cranial,Frontal,6,Present,Present,NA,NA,NA,Present,Present,Present,NA,Present,Present,NA,NA,Present,Present,Present,NA,NA,NA,NA,Present,NA,NA,NA
+38,Cranial,Frontal,5,Present,Present,Absent,NA,NA,Present,Present,Present,Present,Present,Present,Present,NA,Present,Present&Absent,Present,Present&Absent,Present&Absent,Present&Absent,NA,Absent,Present,Present&Absent,Present
+39,Cranial,Frontal,1,Thick,Intermediate,Thick,NA,NA,NA,Intermediate,NA,NA,Intermediate,Thick,Intermediate,NA,Intermediate,Thick&Intermediate&Reduced,Intermediate&Reduced,Intermediate&Thick,Intermediate&Thick,Intermediate,NA,Intermediate&Reduced,NA,Intermediate,NA
+40,Cranial,Frontal,2,Medial to lateral & Lateral to medial,Medial to lateral,NA,NA,NA,Medial to lateral,Medial to lateral&Lateral to medial,NA,NA,Lateral to medial,Medial to lateral&Lateral to medial,Lateral to medial,NA,Medial to lateral&Lateral to medial,Medial to lateral&Lateral to medial,Medial to lateral&Lateral to medial,NA,Medial to lateral,Medial to lateral,NA,Medial to lateral,NA,Medial to lateral,NA
+41,Cranial,Frontal,7,Torus,Torus,Torus,NA,NA,Torus,Intermediate,Torus,Intermediate,Torus,Torus,Torus,Torus,Torus,Intermediate,Torus,Torus,Intermediate,Torus,Intermediate,Weak,Torus,Torus,NA
+42,Cranial,Frontal,8,Less arched,Arched,Less arched,NA,NA,Less arched,Arched,Less arched,Less arched,Arched,Less arched&Arched,Less arched&Arched,Arched,Arched,Arched,Arched,Less arched&Arched,Arched,Arched,NA,Less arched&Arched,Arched,Less arched&Arched,NA
+43,Cranial,Frontal,10,Foramen,Foramen,NA,NA,NA,Foramen,Foramen,NA,NA,Comma shaped,Comma shaped,Comma shaped,NA,Foramen,NA,Comma shaped,Comma shaped,NA,NA,NA,Comma shaped,NA,NA,NA
+44,Cranial,Frontal,11,Angled,Angled,NA,NA,NA,Angled,NA,NA,NA,Rounded,Rounded,Rounded,NA,Rounded,Rounded,Rounded,Rounded,NA,NA,NA,NA,NA,NA,NA
+45,Cranial,Orbit,1,Within orbit,Within orbit,Within orbit,NA,NA,Within orbit,Within orbit,NA,Within orbit,Within orbit,Within orbit,Within orbit,NA,Within orbit,Within orbit,Within orbit,NA,NA,NA,NA,Within orbit,NA,NA,NA
+46,Cranial,Orbit,4,Variable,Variable,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,NA,NA,NA
+47,Cranial,Orbit,7,Broad,Broad,NA,NA,NA,Narrow,Broad,NA,NA,Broad,Broad,Broad,NA,Broad,Broad,Broad,Broad,Broad,NA,NA,Broad,NA,Broad,NA
+48,Cranial,Orbit,2,Rectangular,Circular,Circular,NA,NA,NA,Circular,NA,Circular,Circular,Circular,Circular,NA,Circular,Circular,Circular,Circular,Circular,Circular,NA,Circular&Rectangular,NA,Circular,NA
+49,Cranial,Orbit,3,Well above superior nasal margin,Close to superior nasal margin,Close to superior nasal margin,NA,NA,NA,Well below superior nasal margin,NA,NA,Close to superior nasal margin,Close to superior nasal margin,Close to superior nasal margin,NA,Well below superior nasal margin,Well below superior nasal margin,Well below superior nasal margin,NA,NA,NA,NA,Well below superior nasal margin,NA,NA,NA
+50,Cranial,Orbit,5,No&Yes,No&Yes,No,NA,NA,No,No,NA,No,Yes,No,Yes,No,No,No,No,Yes,NA,NA,Yes,No&Yes,NA,Yes,NA
+51,Cranial,Orbit,6,High,High,Low,NA,NA,High,NA,NA,NA,Low,High&Low,Low,High,High,NA,High,NA,NA,NA,NA,High,NA,NA,NA
+52,Cranial,Nasal,1,Present,Absent&Present,Absent,NA,NA,NA,Present,NA,NA,Absent,Absent,Absent,NA,Present,Absent,Absent,Present,Absent,NA,NA,Absent,NA,NA,NA
+53,Cranial,Nasal,2,Tapered,Tapered,NA,NA,NA,Expanded,Tapered&Expanded,NA,NA,Expanded,Expanded,Expanded,Not projected,Not projected,Not projected,Not projected,NA,NA,NA,NA,Not projected,NA,NA,NA
+54,Cranial,Nasal,6,NA,NA,NA,NA,NA,NA,None,NA,NA,None,None&Slight,Slight,Slight,Slight,Slight,Slight,NA,NA,NA,NA,NA,NA,NA,NA
+55,Cranial,Nasal,4,Deep angled,Deep angled,NA,NA,NA,NA,Flat,NA,NA,NA,NA,NA,NA,Small curve,Small curve,Small curve,Deep angled,Small curve,NA,NA,Flat&Small curve&Well defined curve&Deep angled,NA,Well defined curve,NA
+56,Cranial,Nasal,3,Stepped,Stepped,NA,NA,Stepped,Stepped,Stepped,Stepped,Stepped,Smooth,Smooth,Smooth,Stepped,Stepped&Smooth,Stepped,Stepped&Smooth,Stepped,Smooth,Stepped&Smooth,Stepped,Smooth,Smooth,Stepped,NA
+57,Cranial,Nasal,5,NA,NA,NA,NA,NA,Wide,Wide&Narrow,NA,NA,Not projecting,Not projecting,Not projecting,Wide,Wide&Narrow,Narrow,Wide,NA,NA,NA,NA,NA,NA,NA,NA
+58,Cranial,Nasal,7,NA,NA,NA,NA,NA,Absent,Anterior,NA,NA,Posterior,Posterior,Posterior,Anterior,Anterior,NA,Enlarged,NA,NA,NA,NA,NA,NA,NA,NA
+59,Cranial,Nasal,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Fused spinal and turbinal crests, and lateral crest&No crests",NA,"Lateral, turbinal and spinal crests&Fused spinal and turbinal crests, and lateral crest&No crests","Fused lateral and spinal crests, and partial fusion of spinal and turbinal",NA,"Lateral crest&Fused spinal and turbinal crests, and lateral crest &Fused lateral and spinal crests, and turbinial crest ","Fused spinal and turbinal crests, and lateral crest",NA,NA
+60,Cranial,Maxilla,13,Sharp&Dull,Sharp&Dull,NA,NA,NA,Sharp,Sharp&Dull,Sharp,NA,Dull,Sharp&Dull,Dull,Dull,Sharp&Dull,Sharp,Sharp,Sharp,NA,NA,NA,NA,NA,NA,NA
+61,Cranial,Maxilla,1,Low,Low,High,NA,NA,Intermediate,Intermediate,Intermediate,High,Intermediate,Intermediate,Intermediate,Low,Low&Intermediate,Intermediate&High,Intermediate&High,Intermediate&High,NA,NA,NA,High,NA,Intermediate,Intermediate
+62,Cranial,Maxilla,2,Intermediate,Intermediate,Short,NA,NA,Long,Long,Long,NA,Long,Long,Long,NA,Intermediate,Long,Long,NA,NA,NA,NA,Short,NA,NA,NA
+63,Cranial,Maxilla,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Convex,Convex,Convex,Convex,NA,NA,NA,NA,NA,Convex,Convex
+64,Cranial,Maxilla,15,Convex,Convex,Straight,NA,Convex,Convex,Straight,Convex,Straight,Concave,Concave,Concave,Straight,Straight,Straight,Straight,Straight&Convex,Convex,NA,Straight,Straight&Convex,NA,Straight,Concave
+65,Cranial,Maxilla,9,Beyond bicanine line,Beyond bicanine line,NA,NA,NA,Beyond bicanine line,Beyond bicanine line,Beyond bicanine line,Within bicanine line,Within bicanine line,Within bicanine line,Within bicanine line,Beyond bicanine line,Beyond bicanine line,Within bicanine line,Beyond bicanine line,NA,NA,NA,NA,Beyond bicanine line,NA,NA,NA
+66,Cranial,Palate,1,Intermediate,Intermediate,NA,NA,NA,NA,Broad,NA,NA,Broad,Broad,Broad,NA,Broad,NA,Broad,NA,NA,NA,NA,Broad,NA,NA,NA
+67,Cranial,Palate,2,Slight canal,Slight canal,NA,NA,Intermediate,Intermediate,Intermediate,NA,NA,Extensive canal,Extensive canal,Extensive canal,NA,Slight canal,NA,Extensive canal,NA,NA,NA,NA,Extensive canal,NA,NA,NA
+68,Cranial,Palate,3,Thin,Thin,NA,NA,Thin,Thin,Thin,Thin,Thin,Thick,Thick,Thick,NA,Thin,Thin,Thin,NA,NA,NA,NA,Thin,NA,NA,NA
+69,Cranial,Palate,4,Canine,Canine,NA,NA,NA,NA,P3,NA,NA,NA,NA,NA,NA,P3,P3,Canine&P3,P3,P3,NA,P4,Canine,NA,P3,P4
+70,Cranial,Palate,5,Shallow,Shallow,NA,NA,Shallow,Shallow,Deep,Shallow,Deep,Shallow,Shallow&Deep,Shallow,Deep,Shallow&Deep,Deep,Shallow&Deep,Shallow&Deep,NA,NA,NA,Deep,NA,Deep,Deep
+71,Cranial,Palate,6,Nearly horizontal,Nearly horizontal,NA,NA,NA,Nearly horizontal,Nearly horizontal,NA,NA,Steep posterior angle,Steep posterior angle,Nearly horizontal,NA,Nearly horizontal,Nearly horizontal,Nearly horizontal,Nearly horizontal,NA,NA,NA,NA,NA,NA,NA
+72,Cranial,Maxilla,16,NA,NA,NA,NA,NA,Marked,NA,Marked,NA,Weak,Weak,Weak,Marked,Moderate,Weak,Weak&Marked,Weak&Moderate,NA,NA,NA,NA,NA,Weak,Marked
+73,Cranial,Maxilla,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Parallel,Parallel,Parallel,Parallel,NA,NA,NA,NA,NA,Parallel,Parallel
+74,Cranial,Maxilla,8,Absent,Absent,Absent,NA,Absent,Absent,Absent&Present,Absent,Absent,Present,Absent,Absent,Absent,Absent&Present,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA
+75,Cranial,Maxilla,5,Present,Present,Present,NA,Present,Present,Present,Present,NA,Present&Absent,Absent,Present&Absent,Present,Present,Absent,Present&Absent,Present&Absent,Absent,Absent,NA,Present,NA,Absent,NA
+76,Cranial,Maxilla,10,Absent,Absent,Absent,NA,NA,Absent,Absent,Absent,NA,Present,Absent&Present,Present,Absent,Absent,Absent,Absent,Absent,NA,NA,NA,Absent,NA,NA,NA
+77,Cranial,Maxilla,3,Large,Large,NA,NA,Large,Large,Large,NA,NA,Large,Large,NA,NA,Large,Large,Large,NA,NA,NA,NA,Large,NA,NA,NA
+78,Cranial,Maxilla,4,Posterior,Posterior,NA,NA,NA,Posterior,Posterior,NA,NA,Anterior,Anterior,NA,NA,Anterior,Anterior,Anterior,Anterior,NA,NA,NA,NA,NA,NA,NA
+79,Cranial,Maxilla,14,Vertical,Vertical,NA,NA,NA,Vertical&Sloped,Sloped,NA,NA,Sloped,Sloped,Sloped,Vertical,Vertical,Vertical&Sloped,Vertical,Vertical,Vertical&Lateral,Lateral,NA,Vertical,Vertical,Vertical,NA
+80,Cranial,Maxilla,11,Wide,Narrow,NA,NA,NA,NA,Wide,NA,NA,NA,NA,NA,NA,Narrow,NA,NA,NA,Absent,NA,Wide,Absent,NA,Wide,NA
+81,Cranial,Maxilla,6,Foramen beneath middle third of orbital breadth,Foramen beneath middle third of orbital breadth,Foramen beneath middle third of orbital breadth,NA,NA,Foramen beneath middle third of orbital breadth,Foramen beneath middle third of orbital breadth,NA,NA,Foramen beneath middle third of orbital breadth,Foramen beneath middle third of orbital breadth,NA,NA,Foramen beneath middle third of orbital breadth,NA,Foramen beneath middle third of orbital breadth,NA,NA,NA,NA,Foramen beneath middle third of orbital breadth,NA,NA,NA
+82,Cranial,Maxilla,7,Patent&Obliterated,Obliterated,NA,NA,NA,Obliterated,Patent&Obliterated,NA,NA,Obliterated,Obliterated,Obliterated,Trace,Obliterated,Obliterated,Obliterated,NA,NA,NA,NA,Obliterated,NA,NA,NA
+83,Cranial,Maxilla,18,M1-M2,M1,P3-P4,NA,M1,P4-M1,P4-M1,P4-M1,P3-P4,P3-P4,P3-P4,P3-P4,NA,P4-M1&M1,P4-M1,P3-P4&P4-M1&M1,P4-M1,NA,NA,NA,M1,NA,P4-M1,M1-M2
+84,Cranial,Zygomatic,9,Straight,Straight&Curved,NA,NA,NA,Straight&Curved,Straight,NA,NA,Straight,Straight,Straight,Straight,Curved,Curved,Curved,Curved,Curved,NA,Curved,Curved,NA,Curved,Curved
+85,Cranial,Zygomatic,1,Long,Intermediate,NA,NA,NA,NA,Short,NA,NA,Intermediate,Long,Long,NA,Short,Long,Intermediate,NA,NA,NA,NA,Short,NA,NA,NA
+86,Cranial,Zygomatic,20,Posteriorly inclined,Anteriorly inclined,NA,NA,NA,NA,Anteriorly inclined,NA,NA,Anteriorly inclined,Anteriorly inclined,Anteriorly inclined,NA,Vertical,Vertical,Vertical,Vertical,NA,NA,NA,Vertical,NA,Vertical,Vertical
+87,Cranial,Zygomatic,2,High,High,High,NA,NA,High,High,NA,Low,High,High,Low,NA,High,Low,High,NA,NA,NA,NA,High,NA,NA,NA
+88,Cranial,Zygomatic,3,At or below plane of orbital rim,At or below plane of orbital rim,NA,NA,NA,At or below plane of orbital rim,At or below plane of orbital rim,NA,NA,At or below plane of orbital rim,At or below plane of orbital rim,NA,NA,At or below plane of orbital rim,NA,At or below plane of orbital rim,NA,NA,NA,NA,At or below plane of orbital rim,NA,NA,NA
+89,Cranial,Zygomatic,5,Frontolateral,Frontolateral,Frontolateral,NA,NA,NA,Frontal&Frontolateral,NA,NA,Frontolateral,Frontal&Frontolateral,NA,NA,Frontolateral,Frontolateral,Frontolateral,NA,NA,NA,NA,NA,NA,NA,NA
+90,Cranial,Zygomatic,6,Thin,Thin,NA,NA,NA,Thin,Thin,NA,NA,Thick,Thick,Thick,Thin,Thin,NA,Thin,NA,NA,NA,NA,Thin,NA,NA,NA
+91,Cranial,Zygomatic,10,Vertical,Vertical,NA,NA,NA,Laterally divergent,Laterally divergent,NA,NA,Vertical,Laterally divergent,Laterally divergent,Vertical,Vertical,Vertical,Vertical,Vertical,NA,NA,NA,NA,NA,NA,NA
+92,Cranial,Zygomatic,11,NA,NA,NA,NA,NA,NA,Indented,NA,NA,Curved,Curved,NA,Curved,Curved,Curved,Curved,NA,NA,NA,NA,NA,NA,NA,NA
+93,Cranial,Zygomatic,4,Low,Low,NA,NA,NA,Low,High,Low,Low,High,High,High,High,Low,Low,Low,NA,NA,NA,NA,Low,NA,NA,NA
+94,Cranial,Zygomatic,8,Posterior,Posterior,Posterior,NA,NA,Anterior,Posterior,NA,Anterior,Anterior,Anterior,Anterior,Posterior,Posterior,Anterior,Posterior,Posterior,NA,NA,NA,Posterior,NA,NA,NA
+95,Cranial,Zygomatic,19,Flat,Flat,NA,NA,NA,Deeply excavated,Flat,NA,NA,Flat,Flat,Flat,NA,Flat,Flat,Flat,Flat,NA,NA,NA,NA,NA,NA,NA
+96,Cranial,Zygomatic,12,NA,NA,NA,NA,NA,Prominent,Prominent,NA,NA,Prominent,Prominent,Prominent,Slight,Slight,NA,Slight,NA,NA,NA,NA,NA,NA,NA,NA
+97,Cranial,Zygomatic,14,NA,NA,NA,NA,NA,Absent,Absent,NA,NA,Present,Absent,Absent,Absent,Absent,Absent,Absent,NA,NA,NA,NA,NA,NA,NA,NA
+98,Cranial,Zygomatic,15,NA,NA,NA,NA,NA,Above,Level,NA,NA,Above,Above,Above,Level,Level,NA,Level,NA,NA,NA,NA,NA,NA,NA,NA
+99,Cranial,Zygomatic,16,Below orbit,Below orbit,NA,NA,NA,At orbit,At orbit,NA,NA,At orbit,Above orbit,Above orbit,NA,At orbit,At orbit,At orbit,At orbit,NA,NA,NA,NA,NA,NA,NA
+100,Cranial,Zygomatic,13,NA,NA,NA,NA,NA,Marked,Marked,NA,NA,Marked,Marked,Marked,Slight,Slight,Slight,Slight,NA,NA,NA,NA,NA,NA,NA,NA
+101,Cranial,Zygomatic,17,Sagittal,Sagittal,NA,NA,NA,Sagittal,Sagittal,NA,NA,Sagittal,Deviant,Sagittal,NA,Sagittal,Sagittal,Sagittal,Sagittal,NA,NA,NA,NA,NA,NA,NA
+102,Cranial,Zygomatic,18,Undivided,Undivided,NA,NA,NA,Undivided,Undivided,NA,NA,Divided,Divided,Undivided,NA,Undivided,Undivided,Undivided,Undivided,NA,NA,NA,NA,NA,NA,NA
+103,Cranial,Frontal,9,Marked,Moderate,Marked,NA,NA,Moderate,Moderate,Moderate,Moderate,Marked,Marked,Marked,Slight,Moderate,Moderate,Marked&Moderate&Slight,Marked&Moderate&Slight,Moderate&Slight,Slight,NA,Slight,Slight,Marked&Moderate,Marked
+104,Cranial,Temporal,76,Large,Intermediate,NA,NA,NA,NA,Intermediate,NA,NA,Intermediate,Large,Large,NA,Intermediate,NA,Intermediate,NA,NA,NA,NA,Small,NA,NA,NA
+105,Cranial,Temporal,63,Wide,Narrow,NA,NA,NA,Narrow,Narrow,NA,NA,Wide,Wide,Wide,Narrow,Narrow,Narrow,Narrow,NA,NA,NA,NA,Narrow,NA,NA,NA
+106,Cranial,Temporal,2,High above plane,Near plane,High above plane,Near plane,Near plane,Near plane,High above plane,NA,NA,High above plane,High above plane,High above plane,NA,Near plane,Near plane,Near plane,Near plane,Near plane,NA,Near plane,Near plane,NA,NA,NA
+107,Cranial,Temporal,4,Posterior,Posterior,NA,NA,NA,Posterior,Posterior,NA,NA,Posterior,Anterior,Posterior,NA,Posterior,Posterior,Posterior,Posterior,NA,NA,NA,NA,NA,NA,NA
+108,Cranial,Temporal,5,Single plane,Single plane,NA,NA,NA,Single plane,Single plane,NA,NA,Single plane,Mediolateral twisted,Single plane,NA,Single plane,Single plane,Single plane,Single plane,NA,NA,NA,NA,NA,NA,NA
+109,Cranial,Temporal,3,Steep,Steep,NA,NA,NA,NA,Steep,NA,NA,NA,More pronounced,NA,NA,Short,Short,Steep,Short&More pronounced&Steep,Steep,Steep,NA,Short&More pronounced&Steep,NA,NA,NA
+110,Cranial,Temporal,6,Developed,Developed,NA,NA,NA,NA,Developed,NA,NA,NA,Developed,NA,NA,Not developed,Not developed,Not developed,Not developed,Not developed,Not developed,NA,Not developed,NA,NA,NA
+111,Cranial,Temporal,7,Not or slightly projecting,Not or slightly projecting,NA,NA,NA,NA,Not or slightly projecting,NA,NA,NA,Projecting,NA,NA,Not or slightly projecting,Not or slightly projecting,Not or slightly projecting,Not or slightly projecting,Not or slightly projecting,Not or slightly projecting,NA,Not or slightly projecting,NA,NA,NA
+112,Cranial,Temporal,11,Continuous,Continuous&Not continuous,NA,NA,NA,Continuous,Not continuous,NA,NA,NA,Continuous,NA,NA,Continuous,Continuous,Continuous,Not continuous,Continuous&Not continuous,Not continuous,Not continuous,Not continuous,NA,Continuous&Not continuous,NA
+113,Cranial,Temporal,8,Flat,Flat,NA,NA,NA,Small rounded profile,Large rounded profile,NA,NA,NA,Small rounded profile,NA,NA,Flat&Large rounded profile,Flat,Flat&Large rounded profile,Flat&Large rounded profile&Small rounded profile,Flat,Flat,Large rounded profile,Small rounded profile,NA,Flat&Large rounded profile,NA
+114,Cranial,Temporal,9,Flat,Flat,NA,NA,NA,NA,Flat,NA,NA,NA,Large rounded profile,NA,NA,Large rounded profile,Small rounded profile,Flat,Small rounded profile,Flat&Large rounded profile&Small rounded profile,Flat&Large rounded profile&Small rounded profile,NA,Small rounded profile,NA,NA,NA
+115,Cranial,Temporal,10,Not integrated,Not integrated,NA,NA,NA,NA,Not integrated,NA,NA,NA,Integrated,NA,NA,Not integrated,Not integrated,Not integrated,Not integrated&Integrated,Integrated,Integrated,NA,Not integrated&Integrated,NA,NA,NA
+116,Cranial,Temporal,24,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,NA,Absent&Present,Present,Absent&Present,Present,NA,Present,NA,NA,NA
+117,Cranial,Temporal,25,Absent,Absent,NA,NA,NA,NA,Wide,NA,NA,NA,Wide,NA,NA,Narrow,NA,Absent,Narrow,Absent&Narrow&Wide,Absent&Wide,Narrow,Absent,NA,Narrow&Wide,NA
+118,Cranial,Temporal,26,Same level,Same level&Posterior,NA,NA,NA,Same level,Posterior,NA,NA,NA,Same level,NA,NA,Same level&Posterior&Farther back,Posterior,Farther back,Same level,Same level,Posterior,Posterior,Farther back&Same level,NA,Posterior,NA
+119,Cranial,Temporal,27,Projecting,Projecting,NA,NA,NA,NA,Projecting,NA,NA,NA,Not projecting,NA,NA,Projecting,Projecting,Projecting,Not projecting,Not projecting,Projecting&Not projecting,NA,Projecting&Not projecting,NA,Projecting,NA
+120,Cranial,Temporal,62,Very shallow to absent,Very shallow to absent,NA,NA,NA,Very shallow to absent,Very shallow to absent,NA,NA,Very shallow to absent,Very shallow to absent,NA,NA,Very shallow to absent,NA,NA,NA,NA,NA,NA,Very shallow to absent,NA,NA,NA
+121,Cranial,Temporal,51,Not stretched,Not stretched&Stretched,NA,NA,NA,Stretched,Stretched,NA,NA,NA,Not stretched,NA,NA,Not stretched,Stretched,Not stretched,Stretched,Not stretched,Not stretched,Stretched,Not stretched&Stretched,NA,Stretched,NA
+122,Cranial,Temporal,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Absent,Absent,Absent&Present,Absent&Present,NA,Present,Present,Present,NA
+123,Cranial,Temporal,83,None,None&Exclusive,NA,NA,NA,None,None,NA,NA,NA,None,NA,NA,Exclusive,NA,Exclusive,Exclusive,Exclusive,None&Exclusive,Exclusive,Exclusive,NA,None,NA
+124,Cranial,Temporal,34,Horizontal,Horizontal,NA,NA,NA,Horizontal,Horizontal,NA,NA,NA,Oblique,NA,NA,Oblique,Horizontal&Oblique,Oblique,Horizontal&Oblique&Vertical,Oblique,Horizontal,Oblique,Horizontal&Oblique&Vertical,NA,Horizontal&Oblique,NA
+125,Cranial,Temporal,32,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,NA,Present,Present,Absent,Absent,NA,Absent,NA,NA,NA
+126,Cranial,Temporal,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,Present,Present,Absent&Present,NA,Absent,NA,Present,NA
+127,Cranial,Temporal,33,Wide,Wide,NA,NA,NA,Narrow,Wide,NA,NA,NA,Wide,NA,NA,Wide,NA,Wide,Narrow,Narrow,Wide,Wide,Narrow&Wide,NA,Narrow&Wide,NA
+128,Cranial,Temporal,30,Shallow&Deep,Shallow,Shallow,Shallow,Shallow,Shallow,Shallow&Deep,NA,Shallow&Deep,Shallow&Deep,Deep,Shallow,NA,Shallow&Deep,Shallow&Deep,Shallow&Deep,Shallow&Deep,Shallow&Deep,Shallow,NA,Deep,NA,Shallow,Shallow
+129,Cranial,Temporal,86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,<50%,<50%,<50%,<50%,NA,NA,NA,NA,NA,<50%,NA50%
+130,Cranial,Temporal,31,Convex,Convex,NA,NA,NA,NA,Flat or concave,NA,NA,NA,Flat or concave,NA,NA,Convex,NA,Convex,Convex,Flat or concave&Convex,Flat or concave,NA,Flat or concave&Convex,NA,NA,NA
+131,Cranial,Temporal,47,Round,Round,NA,NA,NA,NA,Round,NA,NA,NA,Round,NA,NA,Round,Round,Round,Round,Rectangular&Round,Round,NA,Round,NA,NA,NA
+132,Cranial,Temporal,48,Unfused,Unfused,Unfused,NA,NA,Unfused,Fused&Unfused,NA,NA,Fused,Fused&Unfused,Fused&Unfused,NA,Fused,Fused&Unfused,Fused,Fused,NA,NA,NA,Fused,NA,NA,NA
+133,Cranial,Temporal,49,Large,Large,Large,NA,NA,Large,Large&Medium,NA,NA,Small,Medium&Small,Medium,NA,Medium&Small,Medium,Small,Medium&Small,Large&Medium,Large,Small,Small,NA,Large,NA
+134,Cranial,Temporal,50,No overlap,No overlap,NA,NA,NA,Overlaps,Overlaps,NA,NA,NA,NA,NA,NA,NA,NA,Overlaps&Rudimentary or no postglenoid process,No overlap,Overlaps,NA,No overlap,Overlaps,NA,Overlaps,NA
+135,Cranial,Temporal,85,Small or absent,Small or absent,NA,NA,NA,Small or absent,Small or absent,NA,NA,Moderate to large,Moderate to large,Small or absent,NA,Small or absent&Moderate to large,NA,Moderate to large,NA,NA,NA,NA,Moderate to large,NA,NA,NA
+136,Cranial,Temporal,61,NA,NA,NA,NA,NA,NA,Unfused,NA,NA,NA,NA,NA,NA,Fused,Fused,Unfused&Fused,Unfused&Fused,Fused,Unfused&Fused,NA,Fused,Fused,NA,NA
+137,Cranial,Temporal,43,Ossified with projection,Ossified with projection,NA,NA,NA,NA,Ossified with projection,NA,NA,NA,Ossified with projection,Ossified with projection,NA,Ossified with projection,NA,NA,NA,NA,NA,NA,Not ossified,NA,NA,NA
+138,Cranial,Temporal,44,Sagittal,Sagittal&Intermediate,Sagittal&Intermediate,NA,NA,Intermediate,Intermediate,NA,NA,Coronal,Coronal,Coronal,NA,Coronal,Coronal,Intermediate&Coronal,Intermediate,NA,NA,NA,Coronal,NA,Intermediate,Intermediate
+139,Cranial,Temporal,45,"Absent, weak","Absent, weak",NA,NA,NA,"Absent, weak",Moderate to strong,NA,NA,Moderate to strong,Moderate to strong,Moderate to strong,NA,Moderate to strong,Moderate to strong,Moderate to strong,Moderate to strong,NA,NA,NA,NA,NA,NA,NA
+140,Cranial,Temporal,79,Tubular,Tubular,Tubular,Tubular,Tubular,Tubular,Platelike,NA,Tubular,Platelike,Platelike,Platelike,NA,Tubular&Platelike,Tubular&Platelike,Tubular&Platelike,Platelike,NA,NA,NA,Platelike,NA,Platelike,Platelike
+141,Cranial,Temporal,80,Absent,Absent,NA,NA,NA,Present,Absent,NA,NA,NA,NA,NA,NA,Absent&Present,NA,Absent,Absent,Absent,NA,Present,Absent,NA,Absent&Present,NA
+142,Cranial,Temporal,82,Thin&Thick,Thin&Thick,NA,NA,NA,Thick,Thick,NA,NA,NA,Thick,NA,NA,Thin,NA,Thick,Thick,Thin&Thick,Thin,Thin,Thin&Thick,NA,Thin&Thick,NA
+143,Cranial,Temporal,84,Medial to saddle,Medial to saddle,NA,NA,NA,Medial to saddle,Medial to saddle,NA,NA,Lateral to saddle,Lateral to saddle,Medial to saddle,NA,Medial to saddle,Medial to saddle,Medial to saddle,Medial to saddle,NA,NA,NA,NA,NA,NA,NA
+144,Cranial,Temporal,75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Absent,Absent&Present,Absent,Absent,NA,Absent,NA,NA,NA
+145,Cranial,Temporal,17,Deep,Deep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Deep,NA,NA,NA
+146,Cranial,Temporal,18,Right angle or more,Right angle or more,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Acute angle,NA,NA,NA
+147,Cranial,Temporal,19,Higher,Higher,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Higher,NA,NA,NA
+148,Cranial,Temporal,20,Lateral,Medial,Medial,Lateral,Medial,Medial,Medial,NA,Medial,Lateral,Lateral,Medial,NA,Medial&Lateral,Medial,Medial,NA,NA,NA,NA,Medial,NA,NA,NA
+149,Cranial,Temporal,21,Small,Small,NA,Small,Small,Large,Large,NA,Small,Large,Large,Large,NA,Large,NA,Large,NA,NA,NA,NA,Large,NA,NA,NA
+150,Cranial,Temporal,22,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,NA,Absent,Absent,Absent,Absent&Present,NA,Absent&Present,NA,NA,NA
+151,Cranial,Temporal,23,Oblique,Oblique,NA,NA,NA,NA,Vertical,NA,NA,NA,Oblique,NA,NA,Oblique,NA,Oblique,Oblique&Vertical,Oblique&Vertical,Oblique&Vertical,NA,Oblique&Vertical,NA,NA,NA
+152,Cranial,Temporal,74,Present,Present,NA,NA,NA,NA,Present,NA,NA,NA,Absent,NA,NA,Present,Present,Absent,Present,Present,Present,NA,Present,NA,Absent,NA
+153,Cranial,Temporal,28,Present and prominent,Present and prominent,Present and prominent,NA,NA,Absent or slight,Present and prominent,NA,NA,Present and prominent,Absent or slight,Absent or slight,NA,Absent or slight,NA,Absent or slight,NA,NA,NA,NA,Absent or slight,NA,NA,NA
+154,Cranial,Temporal,36,Present,Present,NA,NA,NA,Present,Present,NA,NA,NA,Absent,NA,NA,Present,NA,Absent&Present,Absent&Present,Absent&Present,Absent&Present,Present,Absent&Present,NA,Absent,NA
+155,Cranial,Temporal,59,Absent,Absent,NA,NA,NA,Absent,Absent,NA,NA,NA,Absent,NA,NA,Absent,NA,Present,Present,Present,Present,Absent,Present,NA,Present,NA
+156,Cranial,Temporal,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Deep,Shallow&Deep,Deep,Shallow&Deep,NA,Shallow&Deep,NA,NA,NA
+157,Cranial,Temporal,37,High,High,NA,NA,NA,High,High,NA,NA,Low,Low,Low,NA,High,High,High,High,NA,NA,NA,NA,NA,NA,NA
+158,Cranial,Temporal,38,Not inflated,Not inflated,Inflated,Not inflated,NA,Not inflated,Not inflated,NA,NA,Inflated,Inflated,Inflated,NA,Not inflated&Inflated,Not inflated,Not inflated,NA,NA,NA,NA,Not inflated,NA,NA,NA
+159,Cranial,Temporal,39,Large,Small,NA,NA,NA,NA,Large,NA,NA,NA,Large,NA,NA,Small&Large,NA,Small,Small&Large,Small&Large,Large,NA,Large,Small,Small&Large,Large
+160,Cranial,Temporal,40,Medial,Medial,NA,NA,NA,NA,Not medial,NA,NA,NA,Not medial,NA,NA,Medial,NA,Medial,Medial,Medial,Not medial&Medial,NA,Medial,NA,NA,NA
+161,Cranial,Temporal,41,Anterior,Anterior,NA,NA,NA,Anterior,Anterior,NA,NA,Anterior,Posterior,Anterior,NA,Anterior,Anterior,Anterior,Anterior,NA,NA,NA,NA,NA,NA,NA
+162,Cranial,Temporal,42,Single posterolateral,Single posterolateral,NA,NA,NA,Single posterolateral,Single posterolateral,NA,NA,Discrete posterior and lateral,Single lateral,Single posterolateral,NA,NA,NA,Single lateral,Single lateral,NA,NA,NA,NA,NA,NA,NA
+163,Cranial,Temporal,64,Weak&Marked,Weak,NA,NA,NA,Marked,Weak&Marked,NA,NA,NA,Weak,NA,NA,Marked,Marked,Weak&Marked,Weak&Marked,Weak,Marked,Weak,Weak,NA,NA,NA
+164,Cranial,Temporal,65,NA,Continuous,NA,NA,NA,NA,Continuous,NA,NA,NA,Continuous,NA,NA,Continuous,Continuous,Not continuous,Continuous,Continuous,Not continuous&Continuous,NA,Continuous,NA,NA,NA
+165,Cranial,Temporal,66,Not continuous,Continuous,NA,NA,NA,NA,Continuous,NA,NA,NA,Not continuous,NA,NA,Not continuous&Continuous,Not continuous,Not continuous,Not continuous&Continuous,Not continuous&Continuous,Not continuous&Continuous,Continuous,Not continuous&Continuous,NA,Not continuous,NA
+166,Cranial,Temporal,69,Absent,Absent,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,Present,NA,Present,Absent&Present,Present,Present,NA,Present,NA,NA,NA
+167,Cranial,Temporal,71,Wide,Narrow,NA,NA,NA,NA,Wide,NA,NA,NA,Narrow,NA,NA,Narrow,NA,Wide,Absent&Narrow&Wide,Narrow&Wide,Narrow&Wide,NA,Wide,NA,NA,NA
+168,Cranial,Temporal,72,Absent,Absent&Present,NA,NA,NA,NA,Present,NA,NA,NA,Absent,NA,NA,Absent&Present,Present,Absent&Present,Present,Present,Present,Absent,Absent&Present,NA,Absent,NA
+169,Cranial,Temporal,73,Absent,Absent,NA,NA,NA,NA,Present,NA,NA,NA,Absent,NA,NA,Present,Absent,Absent&Present,Absent&Present,Absent&Present,Absent&Present,NA,Absent&Present,NA,Absent,NA
+170,Cranial,Temporal,67,Strong,Weak,NA,NA,NA,Strong,Weak,NA,NA,NA,Strong,NA,NA,Weak,NA,Weak&Strong,Strong,Strong,Weak&Strong,Strong,Weak&Strong,NA,Weak,NA
+171,Cranial,Temporal,68,Not continuous,Not continuous,NA,NA,NA,NA,NA,NA,NA,NA,Continuous,NA,NA,Not continuous,NA,Not continuous,Not continuous,Continuous,Not continuous,NA,Not continuous&Continuous,NA,NA,NA
+172,Cranial,Temporal,70,Divergent anteriorly,Divergent anteriorly,NA,NA,NA,Parallel,Divergent anteriorly,NA,NA,NA,Parallel,NA,NA,Parallel,NA,Divergent anteriorly&Parallel,Divergent anteriorly&Parallel,Divergent anteriorly&Parallel,Divergent anteriorly&Parallel,Divergent anteriorly,Divergent anteriorly&Parallel,NA,Divergent anteriorly,NA
+173,Cranial,Temporal,29,Absent&Present,Absent,NA,NA,NA,Present,Absent,NA,NA,NA,Absent,NA,NA,Absent&Present,NA,Absent&Present,Absent&Present,Absent&Present,Absent&Present,Absent,Present,Present,Absent&Present,NA
+174,Cranial,Temporal,12,Shallow,Shallow,NA,Deep,NA,Shallow,Shallow,NA,Deep,Deep,Shallow,NA,NA,Deep,NA,Shallow&Deep,Shallow&Deep,Shallow&Deep,Shallow&Deep,Shallow,Deep,NA,Shallow,NA
+175,Cranial,Temporal,13,Short&Long,Short,NA,NA,NA,Short,Short,NA,NA,Long,Long,NA,NA,Short,NA,Short&Long,Long,Long,Short,NA,Long,NA,NA,NA
+176,Cranial,Temporal,14,Wide,Wide,NA,Narrow,NA,Wide,Wide,NA,Narrow,Narrow,Wide,NA,NA,Narrow,NA,Narrow&Wide,Wide,Wide,Wide,NA,Narrow&Wide,NA,NA,NA
+177,Cranial,Temporal,15,Round,NA,NA,NA,NA,NA,U-shaped,NA,NA,NA,NA,NA,NA,U-shaped,NA,Round,U-shaped,U-shaped,U-shaped,NA,U-shaped,NA,NA,NA
+178,Cranial,Temporal,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Bridged,Bridged,Bridged,Bridged&Not bridged,NA,Bridged,Not bridged,NA,NA
+179,Cranial,Temporal,1,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,NA,Absent,Present,Absent&Present,Absent,NA,Absent,NA,Absent&Present,NA
+180,Cranial,Temporal,46,Extensive,Extensive,Extensive,Extensive,Extensive,Extensive,Extensive,NA,NA,Reduced,Extensive&Reduced,Extensive,Reduced,Reduced,Reduced,Reduced,NA,NA,NA,NA,Reduced,NA,NA,NA
+181,Cranial,Temporal,53,Low,Low,NA,NA,NA,NA,Low,NA,NA,NA,Low,NA,NA,Low,Low,High&Low,High&Low,High,High&Low,NA,High,NA,Low,NA
+182,Cranial,Temporal,54,Polygonal&Triangular,Polygonal&Triangular,NA,NA,NA,NA,Polygonal,NA,NA,NA,Polygonal,NA,NA,Polygonal&Triangular,Polygonal,Polygonal,Polygonal,Polygonal,Polygonal,Polygonal,Polygonal,NA,Polygonal,NA
+183,Cranial,Temporal,55,Rectilinear,Rectilinear,NA,NA,NA,NA,Rectilinear,NA,NA,NA,Rectilinear,NA,NA,Rounded,Rounded,Rectilinear,Rounded&Rectilinear,Rounded,Rounded,NA,Rounded,NA,NA,NA
+184,Cranial,Temporal,56,Rectilinear,Rectilinear,NA,NA,NA,Rounded,Rounded&Rectilinear,NA,NA,Rounded,Rounded&Rectilinear,Rounded,NA,Rounded&Rectilinear,Rounded&Rectilinear,Rounded&Rectilinear,Rounded&Rectilinear,Rounded,Rounded&Rectilinear,NA,Rounded,Rounded,Rectilinear,NA
+185,Cranial,Temporal,57,Flattened,Flattened,NA,NA,NA,Flattened,Vertical,NA,NA,Vertical,Vertical,Flattened,NA,Vertical,Vertical,Vertical,Vertical,NA,NA,NA,NA,NA,NA,NA
+186,Cranial,Temporal,58,Not extensive,Not extensive,NA,NA,NA,Not extensive,Not extensive,NA,NA,Not extensive,Extensive,Extensive,NA,Not extensive,Not extensive,Not extensive,Not extensive,NA,NA,NA,Not extensive,NA,NA,NA
+187,Cranial,Temporal,78,Moderate&Strong,Moderate,Moderate,NA,NA,Moderate&Strong,Moderate,Moderate,Weak&Moderate,Strong,Strong,Strong,Weak,Weak&Moderate,Weak,Weak,NA,NA,NA,NA,Weak,NA,NA,NA
+188,Cranial,Temporal,77,Posterior,Posterior,NA,NA,NA,Posterior,Intermediate 2,NA,NA,Anterior,Anterior,Intermediate 1,NA,Intermediate 2,Intermediate 2,Intermediate 2,Intermediate 2,NA,NA,NA,NA,NA,NA,NA
+189,Cranial,Temporal,81,Slight&Marked projection,Slight&Marked projection,NA,NA,NA,Marked projection,Slight,NA,NA,NA,Slight,NA,NA,Slight,Slight,Marked projection,Slight,Slight&Marked projection,Slight&Marked projection,Slight,Slight&Marked projection,NA,Marked projection,NA
+190,Cranial,Parietal,10,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Present,NA,NA,Absent,NA,Absent,Absent&Present,Absent&Present,Present,NA,Absent&Present,NA,NA,NA
+191,Cranial,Vault,13,NA,NA,NA,NA,NA,Crest,Crest&Wide,Crest,NA,Crest,Crest,Crest,Wide,Crest&Wide,Wide,Wide,NA,NA,NA,NA,NA,NA,NA,NA
+192,Cranial,Parietal,11,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,NA,Absent,Absent,Absent,Absent,NA,Absent,NA,NA,NA
+193,Cranial,Vault,4,Narrow,Narrow,NA,NA,NA,NA,Narrow,NA,NA,NA,Narrow,NA,Wide,Narrow,Narrow&Wide,Narrow,Narrow&Wide,Narrow&Wide,Narrow&Wide,NA,Narrow&Wide,NA,NA,NA
+194,Cranial,Parietal,7,Lines protruding,Lines protruding,NA,NA,NA,NA,Lines protruding,NA,NA,NA,Lines protruding,NA,NA,Lines visible but not protruding,Lines absent or weak,Lines absent or weak&Lines visible but not protruding&Lines protruding,Lines absent or weak&Lines visible but not protruding&Lines protruding,Lines absent or weak&Lines visible but not protruding&Lines protruding,Lines absent or weak,NA,Lines absent or weak,NA,NA,NA
+195,Cranial,Parietal,8,High,High,NA,NA,NA,NA,High,NA,NA,NA,High,NA,High,High,High,High,High,High,Low,NA,High,NA,NA,NA
+196,Cranial,Parietal,4,Strong,Strong,NA,NA,NA,Strong,Weak,Weak,NA,Weak,Weak,Strong,NA,Weak,Weak,Weak,NA,NA,NA,NA,Weak,NA,NA,NA
+197,Cranial,Parietal,5,Present,Present,NA,NA,NA,Absent,Absent,NA,NA,NA,Present,NA,NA,Absent,Absent,Absent,Absent,Absent,NA,Present,Present&Absent,NA,Present&Absent,NA
+198,Cranial,Parietal,9,Absent,Absent,NA,NA,NA,NA,Present,NA,NA,NA,Absent,NA,NA,Absent,NA,Absent,Absent,Absent,Absent,NA,Absent&Present,NA,NA,NA
+199,Cranial,Vault,3,Absent&Present,Absent&Present,NA,NA,NA,Present,Absent,NA,NA,Absent,Absent,Present,NA,Present&Absent,Absent,Absent,Absent&Present,Absent&Present,Absent&Present,NA,Absent&Present,NA,NA,NA
+200,Cranial,Occipital,8,Flat or slightly concave,Flat or slightly concave,NA,NA,NA,NA,Convex,NA,NA,NA,Flat or slightly concave,NA,NA,Convex,Convex,Convex,Convex,Convex,Convex,NA,Convex,NA,NA,NA
+201,Cranial,Occipital,9,Triangular,Triangular,NA,NA,NA,NA,Pentagonal,NA,NA,NA,Triangular,NA,NA,Pentagonal,Pentagonal,Pentagonal,Pentagonal,Pentagonal&Triangular,Pentagonal,NA,Pentagonal,NA,NA,NA
+202,Cranial,Occipital,4,Steep,Steep,Intermediate&Weak,NA,NA,Intermediate,Weak,NA,NA,Weak,Weak,Weak,NA,Weak,Weak,Weak,Weak,NA,NA,NA,Weak,NA,NA,NA
+203,Cranial,Occipital,30,High,High,NA,NA,NA,Low,Low,NA,NA,Low,Low,Low,NA,Low,Low,Low,Low,NA,NA,NA,NA,NA,NA,NA
+204,Cranial,Occipital,3,Extensive,Extensive,Extensive,NA,NA,Extensive,Absent,NA,Partial,Absent,Extensive&Partial,Extensive,Absent,Partial,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA
+205,Cranial,Occipital,31,Lateral,Lateral,NA,NA,NA,Lateral,Absent,NA,NA,Medial,Medial,Medial,NA,Absent,Absent,Absent,Absent,NA,NA,NA,NA,NA,NA,NA
+206,Cranial,Occipital,24,NA,NA,NA,NA,NA,NA,>110,NA,NA,NA,NA,NA,NA,>110,NA,100 to 110,<100,100 to 110,NA,NA,NA,NA,100 to 110&>110,NA
+207,Cranial,Occipital,10,Flat or slightly concave,Convex,NA,NA,NA,NA,Flat or slightly concave,NA,NA,NA,Flat or slightly concave,NA,NA,Flat or slightly concave,NA,Convex,Convex,Convex&Flat or slightly concave,Convex,NA,Convex,NA,NA,NA
+208,Cranial,Occipital,5,Large,Large,NA,NA,NA,NA,Large,NA,NA,Small,Small,Small,NA,Small,NA,Small,NA,NA,NA,NA,Small,NA,NA,NA
+209,Cranial,Occipital,6,Strong,Strong,NA,NA,NA,NA,Strong,NA,NA,NA,Strong,NA,NA,Absent&Weak,Absent&Weak,Absent&Weak,Weak&Strong,Absent&Weak,Weak,Weak,Absent&Weak,NA,Absent&Weak&Strong,Strong
+210,Cranial,Occipital,25,Transversal,Transversal,NA,NA,NA,NA,Transversal,NA,NA,NA,Transversal,NA,NA,Transversal,NA,Transversal,Transversal,Transversal,Transversal,NA,Median&Transversal,NA,NA,NA
+211,Cranial,Occipital,7,NA,Shortened,NA,NA,NA,Shortened,Shortened,NA,NA,NA,NA,NA,NA,Lengthened,Lengthened,Lengthened&Shortened,Lengthened&Shortened,Lengthened&Shortened,Lengthened,Lengthened,Lengthened,NA,Lengthened&Shortened,NA
+212,Cranial,Occipital,11,Absent,Present,NA,NA,NA,NA,Present,NA,NA,NA,Present,NA,NA,Present,NA,Absent,Absent&Present,Absent&Present,Absent&Present,NA,Absent,NA,Absent,NA
+213,Cranial,Occipital,12,Absent,Absent,NA,NA,NA,NA,Present,NA,NA,NA,Absent,NA,NA,Present,NA,Absent,Absent&Present,Absent,Absent&Present,NA,Absent,NA,NA,NA
+214,Cranial,Occipital,13,Absent,Absent,NA,NA,NA,NA,Present,NA,NA,NA,Absent,NA,NA,Absent,Absent,Absent&Present,Absent&Present,Absent&Present,Absent&Present,NA,Absent&Present,NA,Absent,NA
+215,Cranial,Occipital,16,Present,Present,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Absent,Absent,Absent,Absent&Present,Absent,Absent,NA,Absent,NA,NA,NA
+216,Cranial,Occipital,14,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,Absent,Absent&Present,Absent,Absent&Present,Absent,NA,Absent&Present,NA,Absent,NA
+217,Cranial,Occipital,15,Absent&Present,Absent&Present,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent&Present,Present,Present,Absent&Present,Present,Absent,Present,Absent&Present,NA,Present,NA
+218,Cranial,Occipital,17,Present,Present,NA,NA,NA,NA,Present,NA,NA,NA,Present,NA,NA,Present,Present,Present,Present,Absent&Present,Absent,NA,Present,NA,NA,NA
+219,Cranial,Occipital,18,Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA,Absent,NA,NA,Absent,Absent,Absent,Absent&Present,Absent&Present,Present,NA,Absent,NA,Absent,NA
+220,Cranial,Occipital,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Divergent,Convergent&Parallel&Divergent,Convergent,Convergent&Parallel,NA,NA,NA,NA,NA
+221,Cranial,Occipital,19,Absent,Present,NA,NA,NA,NA,Present,NA,NA,NA,Absent,NA,NA,Absent,NA,Absent,Absent&Present,Present,Absent,NA,Absent&Present,NA,NA,NA
+222,Cranial,Occipital,20,Absent&Present,Absent&Present,NA,NA,NA,Present,Absent,NA,NA,NA,Absent,NA,NA,Absent&Present,NA,Absent,Absent&Present,Absent&Present,Absent&Present,Absent,Absent&Present,NA,Absent,NA
+223,Cranial,Occipital,26,Not continuous,Continuous,NA,NA,NA,NA,Not continuous,NA,NA,NA,Not continuous,NA,NA,Not continuous,NA,Not continuous,Not continuous,Not continuous,Not continuous,NA,Not continuous,NA,NA,NA
+224,Cranial,Occipital,27,Continuous,Continuous,NA,NA,NA,NA,Not continuous,NA,NA,NA,Continuous,NA,NA,Continuous,NA,Not continuous&Continuous,Not continuous&Continuous,Not continuous,Not continuous,NA,Not continuous,NA,NA,NA
+225,Cranial,Occipital,28,Continuous,Continuous,NA,NA,NA,NA,Not continuous,NA,NA,NA,Continuous,NA,NA,Not continuous,NA,Not continuous,Not continuous&Continuous,Not continuous,Not continuous,NA,Not continuous,NA,NA,NA
+226,Cranial,Occipital,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Below opisthocranion,NA,At opisthocranion,At opisthocranion,Below opisthocranion&At opisthocranion,Below opisthocranion,NA,Below opisthocranion,NA,At opisthocranion,NA
+227,Cranial,Occipital,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Separate,Separate,Coincide,NA,Separate,NA,NA,NA
+228,Cranial,Occipital,2,Low,Low,NA,NA,NA,High,Intermediate,NA,Low,High,High,Low,NA,Low,Low,NA,NA,NA,NA,NA,Intermediate,NA,NA,NA
+229,Cranial,Occipital,21,Oval,Oval,Oval,NA,NA,Oval,Oval,NA,Oval,Oval,Heart,Heart,NA,Oval,NA,Oval&Heart,NA,NA,NA,NA,Oval,NA,NA,NA
+230,Cranial,Occipital,22,Posterior,Posterior,At line,At line,NA,At line,At line,NA,NA,Anterior,Anterior,At line,NA,At line&Anterior,NA,At line,At line,NA,NA,NA,At line,NA,NA,NA
+231,Cranial,Occipital,23,Posteriorly,Posteriorly,NA,NA,NA,NA,Posteriorly,NA,NA,Horizontal,Horizontal,NA,NA,Horizontal,NA,Anteriorly,NA,NA,NA,NA,Horizontal,NA,NA,NA
+232,Cranial,Basicranium,1,Intermediate,Intermediate,Narrow,NA,NA,Broad,Intermediate,NA,NA,Broad,Broad,Broad,NA,Intermediate,Broad,Broad,Broad,NA,NA,NA,Broad,NA,NA,NA
+233,Cranial,Basicranium,2,Long,Long,NA,NA,NA,Intermediate,Intermediate,NA,NA,Short,Short,Intermediate,NA,Short,NA,Short,NA,NA,NA,NA,Short,NA,NA,NA
+234,Cranial,Basicranium,3,Variable,Usually present,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA
+235,Cranial,Basicranium,4,Flat,Flat,NA,NA,NA,NA,Moderate,NA,NA,Flexed,Flexed,Flat,NA,Flexed,NA,Flexed,Flexed,NA,NA,NA,Flexed,NA,Flexed,Flexed
+236,Cranial,Basicranium,5,Moderate,Moderate,NA,NA,NA,Squat,Moderate,NA,NA,NA,Squat,Squat,NA,Elongate,NA,Elongate,Elongate,NA,NA,NA,NA,NA,NA,NA
+237,Cranial,Occipital,1,Frequently present,Frequently present,NA,NA,NA,Absent or infrequent,Absent or infrequent,NA,NA,Frequently present,Frequently present,NA,NA,Absent or infrequent,NA,Absent or infrequent,NA,NA,NA,NA,Frequently present,NA,NA,NA
+238,Cranial,Brain,2,Not tucked,Not tucked,NA,NA,NA,Tucked,Not tucked,NA,NA,Tucked,Tucked,Not tucked,NA,Tucked&Not tucked,Tucked&Not tucked,Tucked,NA,NA,NA,NA,Tucked,NA,NA,NA
+239,Cranial,Brain,3,Rounded,Rounded,NA,NA,NA,Rounded,Rounded,NA,NA,Beaked,Beaked,NA,NA,Rounded,Rounded,Rounded,Rounded,NA,NA,NA,NA,NA,NA,NA
+240,Dental,Dentition,1,Thin,Thin,Thin,Thin,Thick,Thick,Thick,Thick,Thick,Hyperthick,Hyperthick,Hyperthick,Thick,Thick,Thick,Thick,NA,NA,NA,NA,Thick,NA,NA,NA
+241,Dental,Dentition,2,Delayed,Delayed,NA,NA,NA,Delayed,Delayed,NA,NA,Accelerated,Accelerated,NA,NA,NA,Delayed,Intermediate,NA,NA,NA,NA,Intermediate,NA,NA,NA
+242,Dental,Dentition,4,NA,NA,NA,NA,NA,Present,Present,NA,NA,NA,NA,NA,NA,Present,NA,Present,Present,Absent,Absent,NA,Absent,Present,Present,NA
+243,Dental,Dentition,5,NA,Weak to moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Weak to moderate,NA,NA,NA
+244,Dental,Dentiton,3,Well developed,Absent or weak,NA,Absent or weak,Absent or weak,Absent or weak,Absent or weak,NA,NA,Absent or weak,Well developed,NA,NA,Absent or weak,Absent or weak,Absent or weak,NA,NA,NA,NA,Absent or weak,NA,NA,NA
+245,Dental,Incisor,1,Not reduced,Not reduced&Moderate,Not reduced,Moderate,Moderate,Moderate,Moderate,Moderate,NA,Moderate&Reduced,Reduced,Moderate,NA,Moderate,Moderate,Moderate,NA,NA,NA,NA,Reduced,NA,NA,NA
+246,Dental,Incisor,2,Dissimilar,Similar,NA,NA,NA,Similar,Similar,NA,Similar,Dissimilar,Dissimilar,NA,NA,Dissimilar&Similar,NA,Similar,NA,NA,NA,NA,Similar,NA,NA,NA
+247,Dental,Incisor,4,NA,NA,NA,NA,NA,Procumbent,Procumbent&Vertical,Procumbent,NA,Vertical,Vertical,Vertical,Vertical,Procumbent&Vertical,Vertical,Vertical,NA,NA,NA,NA,NA,NA,NA,NA
+248,Dental,Incisor,5,NA,NA,NA,NA,NA,Present,Absent,Present,NA,Absent,Absent,Absent,Absent,Present&Absent,Absent,Absent,NA,NA,NA,NA,NA,NA,NA,NA
+249,Dental,Incisor,6,NA,NA,NA,NA,NA,Large,Moderate,Moderate,NA,Small,Small,NA,Moderate,Moderate,Moderate,Large,NA,NA,NA,NA,NA,NA,NA,NA
+250,Dental,Incisor,3,Marginal,Marginal,NA,NA,NA,Marginal,Marginal,NA,NA,Marginal,NA,NA,NA,NA,Marginal,Marginal,NA,NA,NA,NA,Marginal,NA,NA,NA
+251,Dental,Incisor,7,Pronounced,NA,NA,NA,NA,Weak,Weak,NA,NA,Moderate,Weak,NA,Weak,Weak,Weak,Weak,NA,NA,NA,NA,Weak&Trace,NA,NA,NA
+252,Dental,Incisor,8,Absent,NA,NA,NA,NA,Faint,Faint,NA,NA,Trace,Faint,NA,Faint,Faint,Faint,Trace,NA,NA,NA,NA,Faint,NA,NA,NA
+253,Dental,Incisor,9,Absent,NA,NA,NA,NA,Absent,Absent,NA,NA,Absent,Absent,NA,Absent,Absent,Absent,Absent,NA,NA,NA,NA,Absent&Faint,NA,NA,NA
+254,Dental,Incisor,10,NA,NA,NA,NA,NA,Classic,Classic,NA,NA,NA,NA,NA,NA,Classic,NA,Classic,Triangular,Triangular,Triangular,NA,Absent,Triangular,Classic,NA
+255,Dental,Canine,1,More robust,More robust,Slender,More robust,More robust,More robust,More robust,More robust,Slender&More robust,More robust,More robust,Slender&More robust,More robust,More robust,More robust,More robust,NA,NA,NA,NA,More robust,NA,NA,NA
+256,Dental,Canine,3,Strongly dimorphic,Moderately dimorphic,"Monomorphic, small canines",Moderately dimorphic,Moderately dimorphic,"Monomorphic, small canines","Monomorphic, small canines",NA,NA,"Monomorphic, small canines","Monomorphic, small canines",NA,"Monomorphic, small canines","Monomorphic, small canines",Moderately dimorphic,"Monomorphic, small canines",NA,NA,NA,NA,"Monomorphic, small canines",NA,NA,NA
+257,Dental,Canine,4,"Apex central, mesial convexity low","Apex central, mesial convexity low",NA,NA,NA,"Apex central, mesial convexity low","Apex central, mesial convexity low",NA,NA,"Apex mesial, mesial convexity high","Apex mesial, mesial convexity high",NA,NA,NA,NA,"Apex central, mesial convexity low",NA,NA,NA,NA,"Apex central, mesial convexity low",NA,NA,NA
+258,Dental,Canine,5,No,No,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Somewhat,Very,Very,Somewhat,NA,Somewhat,Somewhat,Very,Very,NA,NA,NA,Very,NA,NA,NA
+259,Dental,Canine,7,Yes,Yes,NA,No,No,No,No,No,NA,No,No,NA,Yes,No,No,No,NA,NA,NA,NA,No,NA,NA,NA
+260,Dental,Canine,8,NA,NA,NA,NA,NA,Marked,Marked,Marked,NA,Weak,Marked,NA,Weak,Weak,Marked,Marked,NA,NA,NA,NA,NA,NA,NA,NA
+261,Dental,Canine,9,Absent,NA,NA,NA,NA,Absent,Absent,NA,NA,Absent,NA,NA,Absent,Absent,Absent,Absent,NA,NA,NA,NA,Present,NA,NA,NA
+262,Dental,Canine,10,Absent,NA,NA,NA,NA,Absent,Faint,NA,NA,Absent,NA,NA,Absent,Faint,Faint,Faint,NA,NA,NA,NA,Weak&Faint,NA,NA,NA
+263,Dental,Canine,11,Asymmetric,Asymmetric,NA,NA,NA,NA,More symmetric,NA,NA,Symmetric,Symmetric,NA,More symmetric,More symmetric,More symmetric,More symmetric,More symmetric,NA,NA,NA,NA,NA,NA,NA
+264,Dental,Canine,12,NA,NA,NA,NA,NA,"Sharp, flared","Sharp, flared",NA,NA,NA,NA,NA,NA,"Sharp, flared",NA,"Rounded, no cuspule","Rounded, no cuspule","Rounded, no cuspule","Rounded, no cuspule",NA,"Rounded, no cuspule","Rounded, no cuspule","Sharp, flared",NA
+265,Dental,Canine,13,NA,NA,NA,NA,NA,Asymmetrical,Asymmetrical,NA,NA,NA,NA,NA,NA,Asymmetrical,NA,Symmetrical,Symmetrical,Symmetrical,Symmetrical,NA,Symmetrical,Symmetrical,Asymmetrical,NA
+266,Dental,Canine,6,Prominent,Prominent,NA,NA,NA,Prominent,Prominent&Weak,NA,NA,Weak,Weak,NA,Weak,Weak,Weak,Weak,NA,NA,NA,NA,Weak,NA,NA,NA
+267,Dental,Canine,2,Present,Reduced,Reduced,NA,Reduced,Absent,Absent,NA,NA,Absent,Absent,NA,Absent,Absent,NA,Absent,NA,NA,NA,NA,Absent,NA,NA,NA
+268,Dental,Premolar,14,NA,NA,NA,NA,NA,None,Minor,Minor,NA,Marked,Marked,Marked,None,Minor,Minor,None,NA,NA,NA,NA,NA,NA,NA,NA
+269,Dental,Premolar,15,NA,NA,NA,NA,NA,Marked,Marked,Marked,NA,Weak,Weak,NA,Weak,Weak,Marked,Weak,NA,NA,NA,NA,NA,NA,NA,NA
+270,Dental,Premolar,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Posterior&Posterolateral,Posterolateral,NA,Posterior,NA,NA,NA,NA,NA,Posterior,Posterolateral
+271,Dental,Premolar,1,Paracone equals protocone,Paracone larger than protocone,NA,Paracone larger than protocone,Paracone equals protocone,Paracone equals protocone,Paracone equals protocone,Paracone equals protocone,NA,Paracone equals protocone,Paracone equals protocone,Paracone equals protocone,NA,Paracone equals protocone,Paracone equals protocone,Paracone equals protocone,NA,NA,NA,NA,Paracone equals protocone,NA,NA,NA
+272,Dental,Premolar,11,Two,NA,NA,NA,NA,Two,>Two,NA,NA,Two,NA,NA,Two,>Two,>Two,>Two,NA,NA,NA,NA,Two,NA,NA,NA
+273,Dental,Premolar,13,Always,Always,NA,NA,NA,Frequent,Rare,NA,NA,Absent,Absent,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+274,Dental,Premolar,8,Strong,Strong,NA,Moderate,Moderate,Moderate&Weak or absent,Weak or absent,Weak or absent,NA,Weak or absent,Weak or absent,Weak or absent,NA,Weak or absent,Weak or absent,Weak or absent,NA,NA,NA,NA,Weak or absent,NA,NA,NA
+275,Dental,Premolar,10,Two,NA,NA,NA,NA,Two,Two,NA,NA,Two,Two,NA,Two,One,One&Two,One,NA,NA,NA,NA,One,NA,NA,NA
+276,Dental,Premolar,6,Absent,Absent,NA,Absent,Absent,Infrequent,Frequent,NA,NA,Frequent,Frequent,Frequent,NA,Frequent,Frequent,Frequent,Frequent,NA,NA,NA,Frequent,NA,NA,NA
+277,Dental,Premolar,17,NA,NA,NA,NA,NA,Asymmetrical,Asymmetrical,NA,NA,NA,NA,NA,NA,"Less asymmetrical, talonid reduced",NA,"Less asymmetrical, talonid reduced",Asymmetrical,"Much less asymmetrical, talonid absent","Much less asymmetrical, talonid absent",NA,Circular,Asymmetrical,Asymmetrical,NA
+278,Dental,Premolar,12,"Two, cusps equal size",NA,NA,NA,NA,"Two, mesial cusp larger","Two, mesial cusp larger",NA,NA,"Two, mesial cusp larger","Two, mesial cusp larger",NA,"Two, distal cusp larger","Two, cusps equal size","Two, cusps equal size","Two, mesial cusp much larger",NA,NA,NA,NA,"Two, mesial cusp much larger&Two, mesial cusp larger",NA,NA,NA
+279,Dental,Premolar,9,NA,NA,NA,NA,NA,Two,Two,NA,NA,NA,NA,NA,NA,One,Two,One,One,NA,NA,Two,One,NA,One,NA
+280,Dental,Premolar,18,NA,NA,NA,NA,NA,"Asymmetrical, wide polygon","Asymmetrical, wide polygon",NA,NA,NA,NA,NA,NA,"Asymmetrical, wide polygon",NA,"Asymmetrical, wide polygon","Asymmetrical, wide polygon","Asymmetrical, reduced polygon","Asymmetrical, reduced polygon",NA,Symmetrical,"Asymmetrical, reduced polygon","Asymmetrical, wide polygon",NA
+281,Dental,Molar,8,Moderate,Small,Small,Small,Small,Moderate&Large,Large,Large,NA,Moderate,Large,Large,Large,Moderate&Large,Moderate&Large,Small,NA,NA,NA,NA,Small,NA,Moderate,NA
+282,Dental,Molar,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA 1,NA 1&<1,NA 1,NA 1,NA,NA,NA,NA,NA,<1,NA 1
+283,Dental,Molar,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA 1&<1,<1,NA,<1,NA,NA,NA,NA,NA,<1,NA 1
+284,Dental,Molar,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,<1,<1,NA,<1,NA,NA,NA,NA,NA,<1,NA 1
+285,Dental,Molar,4,"Reduced, incomplete",Fragmented or absent,Fragmented or absent,Fragmented or absent,Fragmented or absent,Fragmented or absent,"Reduced, incomplete&Fragmented or absent",NA,NA,Fragmented or absent,Fragmented or absent,Fragmented or absent,NA,Fragmented or absent,Fragmented or absent,Fragmented or absent,NA,NA,NA,NA,Fragmented or absent,NA,NA,NA
+286,Dental,Molar,7,High,High,NA,NA,NA,NA,High,NA,NA,Low,Low,Low,NA,High,NA,NA,NA,NA,NA,NA,High,NA,NA,NA
+287,Dental,Molar,3,Well developed cusps and cristae,Well developed cusps and cristae,"Inflated cusps, limited cristae",Well developed cusps and cristae,"Inflated cusps, limited cristae",Well developed cusps and cristae,"Inflated cusps, limited cristae",NA,NA,Flat_bunodont morphology,Flat_bunodont morphology,NA,NA,"Inflated cusps, limited cristae","Inflated cusps, limited cristae","Inflated cusps, limited cristae",NA,NA,NA,NA,"Inflated cusps, limited cristae",NA,NA,NA
+288,Dental,Molar,5,Prominent,Barely visible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Prominent,NA,NA,NA
+289,Dental,Molar,6,Very prominent,More prominent,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,More prominent,NA,NA,NA
+290,Dental,Molar,11,BC and LC at margin,BC and LC at margin,"LC margin, BC slightly lingual","LC margin, BC moderately lingual","LC margin, BC moderately lingual","LC margin, BC slightly lingual","LC slightly buccal, BC moderately lingual","LC margin, BC slightly lingual",NA,"LC moderately buccal, BC strongly lingual","LC moderately buccal, BC strongly lingual","LC moderately buccal, BC strongly lingual","LC slightly buccal, BC moderately lingual","LC margin, BC slightly lingual","LC margin, BC slightly lingual","LC margin, BC slightly lingual",NA,NA,NA,NA,"LC margin, BC slightly lingual",NA,NA,NA
+291,Dental,Molar,12,NA,NA,NA,NA,NA,Equal,Equal,NA,NA,Equal,Equal,NA,Protoconid,Protoconid,Protoconid,Protoconid,NA,NA,NA,NA,NA,NA,NA,NA
+292,Dental,Molar,13,NA,NA,NA,NA,NA,Thin,Thicker,NA,NA,Thicker,Thin,NA,Thicker,Thin,Thin,Thin,NA,NA,NA,NA,NA,NA,NA,NA
+293,Dental,Molar,33,NA,NA,NA,NA,NA,Squared,Squared,NA,NA,NA,NA,NA,NA,Squared,NA,Squared,Squared,Rhomboidal,Rhomboidal,NA,Squared,Rhomboidal,Squared,NA
+294,Dental,Molar,15,Faint cuspule,NA,NA,NA,NA,Trace cuspule,Trace cuspule,NA,NA,Small cuspule,Small cuspule,NA,Faint cuspule,Faint cuspule,Faint cuspule,Trace cuspule,NA,NA,NA,NA,Trace cuspule&Faint cuspule,NA,NA,NA
+295,Dental,Molar,16,Absent,NA,NA,NA,NA,Absent,Absent,NA,NA,Absent,Faint,NA,Absent,Absent,Absent,Absent,NA,NA,NA,NA,Absent&Faint,NA,NA,NA
+296,Dental,Molar,14,Lingual cingulum,NA,NA,NA,NA,"Groove, small cusp","Large depression, cusp",NA,NA,"Large depression, cusp",Absent,NA,"Large depression, cusp","Pit, small cusp","Pit, small cusp","Pit, small cusp",NA,NA,NA,NA,"Pit, small cusp&Large depression, cusp",NA,NA,NA
+297,Dental,Molar,19,Weak,NA,NA,NA,NA,Weak,Moderate,NA,NA,Moderate,Large,NA,Weak,Moderate,Moderate,Moderate,NA,NA,NA,NA,Weak&Faint,NA,NA,NA
+298,Dental,Molar,20,Five,NA,NA,NA,NA,Six,Five,NA,NA,Six,Six,NA,Five,Five,Five,Five,NA,NA,NA,NA,Five,NA,NA,NA
+299,Dental,Molar,21,Curved buccal groove,NA,NA,NA,NA,Absent-pit,Small cusp,NA,NA,Absent-pit,Curved mesial and distal grooves,NA,Trace cusp,Curved buccal groove,Curved buccal groove,Absent-pit,NA,NA,NA,NA,Absent&Absent-pit,NA,NA,NA
+300,Dental,Molar,22,Faint,NA,NA,NA,NA,Absent,Small,NA,NA,Faint,Absent,NA,Small,Small,Small,Small,NA,NA,NA,NA,Small&Absent,NA,NA,NA
+301,Dental,Molar,23,Two,NA,NA,NA,NA,Two,Two,NA,NA,Two,Two,NA,Two,Two,Two,Two,NA,NA,NA,NA,Two,NA,NA,NA
+302,Dental,Molar,31,NA,NA,NA,NA,NA,Absent,Absent,NA,NA,NA,NA,NA,NA,Absent,NA,Present,Present,Present,Present,NA,Absent,Present,Present,NA
+303,Dental,Molar,32,NA,NA,NA,NA,NA,Present,Present,NA,NA,NA,NA,NA,NA,Present,NA,Present,Present,Absent,Absent,NA,Absent,Present,Present,NA
+304,Dental,Molar,1,Square,Broader than Long,Square,Broader than Long,Broader than Long,Broader than Long,Broader than Long,NA,NA,Broader than Long,Broader than Long,NA,NA,Broader than Long,Broader than Long,Broader than Long,NA,NA,NA,NA,Broader than Long,NA,NA,NA
+305,Dental,Molar,17,Very large cusp,NA,NA,NA,NA,Large cusp,Very large cusp,NA,NA,Very large cusp,Large cusp,NA,Large cusp,Large cusp,Large cusp,Large cusp,NA,NA,NA,NA,Large cusp&Small cusp,NA,NA,NA
+306,Dental,Molar,24,Y,NA,NA,NA,NA,Some X,Y,NA,NA,Y,Y,NA,Y,Y,Y,Y,NA,NA,NA,NA,Y&X,NA,NA,NA
+307,Dental,Molar,25,Five,NA,NA,NA,NA,Six,Five,NA,NA,Six,Greater than 6,NA,Five,Five,Five,Five,NA,NA,NA,NA,Five&Four,NA,NA,NA
+308,Dental,Molar,26,Two,NA,NA,NA,NA,Two,Two,NA,NA,Two,NA,NA,Two,Two,Two,Two,NA,NA,NA,NA,Two&Less than 2,NA,NA,NA
+309,Dental,Molar,18,Absent,NA,NA,NA,NA,Absent,Absent,NA,NA,Absent,Absent,NA,Absent,Absent,Absent,Absent,NA,NA,NA,NA,Absent&Minimal,NA,NA,NA
+310,Dental,Molar,27,Absent,NA,NA,NA,NA,Absent,Absent,NA,NA,Minimal,Minimal,NA,Absent,Absent,Absent,Absent,NA,NA,NA,NA,Minimal,NA,NA,NA
+311,Dental,Premolar,2,Larger than paracone,Larger than paracone,NA,NA,NA,Larger than paracone,Larger than paracone,NA,NA,Larger than paracone,NA,NA,NA,Larger than paracone,Larger than paracone,Larger than paracone,NA,NA,NA,NA,Larger than paracone,NA,NA,NA
+312,Dental,Molar,2,Buccolingually narrow,Buccolingually narrow,NA,NA,NA,Buccolingually broad,Buccolingually broad,NA,NA,Molarized,Molarized,NA,NA,Buccolingually broad,Buccolingually broad,Buccolingually broad,Buccolingually broad,NA,NA,NA,NA,NA,NA,NA
+313,Dental,Premolar,3,Open distally,Open distally,NA,Open distally,NA,Closed distally,Closed distally,NA,NA,Closed distally,Closed distally,NA,NA,Closed distally,NA,NA,NA,NA,NA,NA,Closed distally,NA,NA,NA
+314,Dental,Premolar,7,Absent or poorly defined,Absent or poorly defined,NA,Absent or poorly defined,Well defined,Well defined,Well defined,NA,NA,Well defined,Well defined,NA,NA,Well defined,NA,Well defined,NA,NA,NA,NA,Well defined,NA,NA,NA
+315,Dental,Molar,9,"MMR absent, protoconid anterior, fovea open","MMR absent, protoconid anterior, fovea open",NA,"MMR absent, protoconid anterior, fovea open","MMR slight, protoconid anterior, fovea open","MMR slight, protoconid anterior, fovea open","MMR slight, protoconid anterior, fovea open",NA,NA,"MMR thick, protoconid even with metaconid, fovea closed","MMR thick, protoconid even with metaconid, fovea closed","MMR thick, protoconid even with metaconid, fovea closed",NA,NA,NA,"MMR slight, protoconid anterior, fovea open","MMR slight, protoconid anterior, fovea open",NA,NA,NA,"MMR slight, protoconid anterior, fovea open",NA,NA,NA
+316,Dental,Molar,10,Low,Low,NA,NA,NA,Low,Low,NA,NA,High,High,NA,NA,Low,Low,NA,NA,NA,NA,NA,Low,NA,NA,NA
+317,Dental,Premolar,4,Does not reach protoconid apex,Does not reach protoconid apex,NA,NA,NA,Does not reach protoconid apex,Does not reach protoconid apex,NA,NA,Reaches protoconid apex,Does not reach protoconid apex,NA,NA,Does not reach protoconid apex,NA,Does not reach protoconid apex,NA,NA,NA,NA,Does not reach protoconid apex,NA,NA,NA
+318,Dental,Premolar,5,Strong,Strong,NA,NA,Strong,Strong,Strong,NA,NA,Strong,Strong,NA,NA,Strong,NA,NA,NA,NA,NA,NA,Strong,NA,NA,NA
+319,Dental,Mandible,1,Intermediate,Intermediate,NA,NA,Robust,Robust,Robust,NA,NA,NA,Extremely robust,NA,NA,Extremely robust,Extremely robust,Extremely robust,NA,NA,NA,NA,Intermediate,NA,NA,NA
+320,Dental,Mandible,11,Receding,Receding,NA,NA,Receding,Receding,Receding,NA,NA,Vertical,Vertical,Vertical,Vertical,Vertical,Vertical,Vertical,Vertical,NA,Vertical,NA,Vertical,NA,Vertical,Vertical
+321,Dental,Mandible,17,Absent,Absent,NA,NA,NA,Absent,Absent,NA,NA,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Weakly projecting,Absent,Absent&Weakly projecting,Absent,Strongly projecting,Absent,Weakly projecting,Weakly projecting
+322,Dental,Mandible,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Absent,Absent,Absent,Absent,NA,Absent&Present,NA,Absent,Absent
+323,Dental,Mandible,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Absent,Absent,Absent,Absent&Weakly developed,NA,Strongly developed,Absent,Weakly developed,Weakly developed
+324,Dental,Mandible,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,Present,Present,Absent&Present,NA,Absent,Present,Present,Absent
+325,Dental,Mandible,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,Present,Present,Present,NA,Present,NA,Absent,Present
+326,Dental,Mandible,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Downward,Downward,Downward,Downward&Downward-backward&Backward,NA,Downward&Downward-backward&Backward,Downward,Downward,Downward
+327,Dental,Mandible,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Absent,Absent,Absent&Present,Absent&Present,NA,Present,Absent,Absent,Absent
+328,Dental,Mandible,2,Superior torus stronger than inferior torus,Superior torus stronger than inferior torus,NA,NA,Inferior torus stronger than superior torus,Superior torus stronger than inferior torus,Superior torus stronger than inferior torus,NA,NA,Inferior torus stronger than superior torus,Inferior torus stronger than superior torus,NA,NA,Both tori undeveloped,Both tori undeveloped,Both tori of similar development&Both tori undeveloped,Inferior torus stronger than superior torus,Both tori of similar development&Inferior torus stronger than superior torus,Inferior torus stronger than superior torus,Both tori of similar development,Both tori undeveloped&Inferior torus stronger than superior torus,NA,Superior torus stronger than inferior torus,Inferior torus stronger than superior torus
+329,Dental,Mandible,3,Prominent,Prominent,NA,NA,Prominent,Prominent,Prominent,NA,NA,Prominent,Prominent,Prominent,Weak,Prominent,Weak,Weak,Weak,Weak,Weak,NA,Weak,Weak,Weak,Weak
+330,Dental,Mandible,5,On inferior transverse torus,On inferior transverse torus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Above inferior transverse torus,NA,NA,NA
+331,Dental,Mandible,6,Higher on inferior transverse torus,Above inferior transverse torus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Above inferior transverse torus,NA,NA,NA
+332,Dental,Mandible,7,Posterior to inferior transverse torus,Inferior transverse torus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Inferior transverse torus,NA,NA,NA
+333,Dental,Mandible,61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Well defined,Weak,Weak&Well defined,Weak,NA,"Not defined, flat surface&Weak&Well defined",NA,Weak,Weak
+334,Dental,Mandible,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Shallow,Shallow,Deep,Deep,NA,Shallow&Deep,Shallow,Shallow,Shallow
+335,Dental,Mandible,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Absent,Present,Present,Absent&Present,NA,Present,Absent&Present,Present,Present
+336,Dental,Mandible,12,Anterior&Lateral,Anterior,Anterior,Anterior,Lateral,Anterior&Lateral,Anterior&Lateral,NA,NA,Lateral,Lateral,Lateral,Lateral,Lateral,Lateral,Lateral,NA,NA,NA,NA,Posterior,NA,NA,NA
+337,Dental,Mandible,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,P3-P4,P3-P4,P4-M1&M1,P4-M1&M1,NA,P3-P4&M1,P3-P4,P3-P4,P3-P4
+338,Dental,Mandible,25,Very low,Very low,NA,NA,NA,Low,Intermediate,NA,NA,Intermediate,High,NA,NA,Intermediate,Intermediate,Intermediate,Intermediate,Intermediate&Low,Low,NA,Intermediate&Low,Intermediate,Low,Low
+339,Dental,Mandible,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Single,Multiple,Multiple,Single&Multiple,NA,Single,Multiple,Multiple,Multiple
+340,Dental,Mandible,13,Present,Present,NA,Present,Present,Present,Present&Absent,NA,NA,Absent,Absent,Absent,NA,Absent,Present&Absent,Absent,NA,NA,NA,NA,Absent,NA,NA,NA
+341,Dental,Mandible,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Clearly visible,Weak/absent&Clearly visible,Weak/absent&Clearly visible,Clearly visible,NA,Weak/absent,Weak/absent,Weak/absent,Clearly visible
+342,Dental,Mandible,33,NA,NA,NA,NA,NA,Clearly visible,Weak/absent,NA,NA,Clearly visible,Clearly visible,NA,Weak/absent,Weak/absent,Clearly visible,Weak/absent&Clearly visible,Weak/absent&Clearly visible,Clearly visible,Clearly visible,NA,Weak/absent&Clearly visible,Weak/absent,Clearly visible,Clearly visible
+343,Dental,Mandible,8,Constant,Constant,NA,NA,NA,Constant,Constant,NA,NA,Constant&Deepens mesially,Constant,Constant,NA,Constant,Constant,Constant,NA,NA,NA,NA,Constant,NA,NA,NA
+344,Dental,Mandible,10,Small&Large,Small,Small,NA,Small,Small,Small,NA,NA,Large,Large,Large,Small,Small,Small&Large,Small,Small,NA,NA,Small,Small,NA,Small,NA
+345,Dental,Mandible,9,Long,Long,Long,NA,NA,Long,Long,NA,NA,Long,Long,Long,Short,Short,Long,Short,NA,NA,NA,NA,Short,NA,NA,NA
+346,Dental,Mandible,14,Broad,Narrow,Broad,Narrow,Narrow,Narrow,Narrow&Broad,NA,NA,Broad,Broad,Broad,NA,Narrow&Broad,Narrow,Narrow,Narrow&Broad,Narrow&Broad,Narrow&Broad,NA,Narrow&Broad,Narrow,Narrow,Narrow
+347,Dental,Mandible,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Absent,Absent,Absent&Present,Present,NA,Absent&Present,Absent,Absent,Absent
+348,Dental,Mandible,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Inclined,Inclined,Horizontal,Horizontal,NA,Inclined&Vertical,Inclined,Vertical,Inclined
+349,Dental,Mandible,15,U shaped,U shaped,U shaped,U shaped,U shaped,U shaped,Parabolic,U shaped,NA,Parabolic,Parabolic,Parabolic,Parabolic,Parabolic,Parabolic,Parabolic,Parabolic,NA,NA,NA,Parabolic,NA,NA,NA
+350,Dental,Mandible,16,Narrow separation,Widely separated,Narrow separation,NA,Narrow separation,Widely separated,Widely separated,NA,NA,Widely separated,Widely separated,Widely separated,NA,Widely separated,Widely separated,Widely separated,NA,NA,NA,NA,Widely separated,NA,NA,NA
+351,Dental,Mandible,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Parallel,Parallel,Parallel,Parallel,NA,Steep&Slowly inclined&Parallel,Parallel,Parallel,Steep
+352,Dental,Mandible,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Weak,Flatsurface&Weak&Well defined,Weak,Flatsurface&Weak&Well defined,NA,Flatsurface&Weak&Well defined,Weak,Weak,Well defined
+353,Dental,Mandible,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Strong,Weak,Flatsurface&Weak&Strong,Flatsurface&Weak&Strong,NA,Flatsurface&Weak&Strong,Weak,Weak,Weak
+354,Dental,Mandible,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,M1-M2,M1-M2&M2-M3,M3,M3,NA,M1-M2&M2-M3&M3,M1-M2,M1-M2,M2-M3
+355,Dental,Mandible,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Narrow,Narrow,Large,Narrow,NA,Narrow,Large,NA,NA
+356,Dental,Mandible,30,Posterior,Posterior,NA,NA,NA,Intermediate,Intermediate,NA,NA,Intermediate,Anterior,NA,NA,Intermediate,Intermediate,Intermediate,Intermediate,NA,NA,NA,NA,NA,NA,NA
+357,Dental,Mandible,31,High,High,NA,NA,NA,Intermediate,Intermediate,NA,NA,Intermediate,Low,NA,NA,Intermediate,Intermediate,Intermediate,Intermediate,NA,NA,NA,NA,NA,NA,NA
+358,Dental,Mandible,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oblique,Vertical,Vertical,Vertical,NA,Vertical,Vertical,NA,Concave
+359,Dental,Mandible,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Weak/absent&Clearly defined,Clearly defined,Weak/absent,NA,Weak/absent,Weak/absent,NA,Weak/absent
+360,Dental,Mandible,51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Weak/absent,Weak/absent&Clearly defined,Weak/absent,NA,Weak/absent,Clearly defined,NA,Clearly defined
+361,Dental,Mandible,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oblique,Oblique,Oblique,NA,Oblique,Diagonal,NA,Oblique
+362,Dental,Mandible,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lateral&Medial,Medial,Medial,NA,Lateral,Lateral,NA,NA
+363,Dental,Mandible,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Centered&Condylar,Centered&Condylar,Centered&Condylar,Condylar,NA,Centered,Centered,NA,NA
+364,Dental,Mandible,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Medial end,NA,Less lateral,Less lateral&Less than a third of distance from medial end&Medial end,NA,Lateral edge of condyle&Less than a third of distance from medial end,NA,NA,NA
+365,Dental,Mandible,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Weakly developed,Weakly developed&Intermediate,Strongly developed,Intermediate,NA,Weakly developed&Intermediate&Strongly developed,Intermediate,NA,Strongly developed
+366,Dental,Mandible,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Deep,Shallow,Shallow,Flat&Shallow&Deep,NA,Flat&Shallow&Deep,Shallow,NA,Deep
+367,Dental,Mandible,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lower&Equal,Equal,Lower,NA,Lower&Equal&Higher,Lower,NA,Lower
+368,Dental,Mandible,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Laterally projected tubercle,Laterally projected tubercle,Swelling under lateral lip,Laterally projected tubercle&Strongly projected tubercle,NA,Swelling under lateral lip,NA,NA,NA
+369,Dental,Mandible,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Flat&Shallow,Shallow,Flat&Shallow&Deep,NA,Flat&Shallow&Deep,Shallow,NA,Shallow
+370,Dental,Mandible,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Weakly developed&Intermediate,Strongly developed,Weakly developed&Intermediate&Strongly developed,NA,Weakly developed&Intermediate&Strongly developed,Intermediate,NA,Strongly developed
+371,Dental,Mandible,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oval&Circular,Oval&Circular,Oval&Circular,NA,Oval&Circular,NA,Circular,NA
+372,Dental,Mandible,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Absent&Present,Present,Absent&Present,NA,Present,Present,NA,Present
+373,Dental,Mandible,59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Parallel,Inclined,Parallel,Diagonal,NA,Inclined,Inclined,Parallel,Inclined
+374,Dental,Mandible,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Low,Intermediate,Low,Low&Intermediate&High,NA,Low&Intermediate&High,Low,Intermediate,Low
+375,Dental,Mandible,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Inclined,Inclined,Diagonal,Inclined,NA,Inclined&Diagonal,Diagonal,NA,NA
+376,Dental,Mandible,57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Absent,Absent,Absent,Absent&Present,NA,Absent,Present,NA,NA
+377,Dental,Mandible,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Deep,Flat&Shallow&Deep,Deep,Flat,NA,Flat&Shallow&Deep,Shallow,NA,NA
+378,Dental,Mandible,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not truncated,Not truncated,Not truncated&Truncated,Not truncated&Truncated,NA,Not truncated&Truncated,Not truncated,NA,NA
+379,Dental,Mandible,4,Not distinct,Not distinct,NA,NA,NA,Not distinct,Not distinct,NA,NA,Not distinct,Not distinct,NA,NA,Not distinct,NA,Not distinct,NA,NA,NA,NA,Not distinct,NA,NA,NA
+380,Dental,Mandible,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Shallow,Shallow,Shallow,Deep,NA,Shallow,Shallow,Shallow,Shallow

@@ -1,0 +1,61 @@
+No. ,Anatomical Region,Character,Pan/Gorilla,A. afarensis,A. aethiopicus,A. africanus,A. robustus,A. boisei,H. habilis,H. rudolfensis,H. ergaster,H. sapiens
+1,Cranial,Projection of nasal bones above frontomaxillary suture,0,1,1,3,1,1,2,2,2,2
+2,Cranial,Inferior orbital margin rounded laterally,0,0,2,0,2,0,0,0,0,0
+3,Cranial,Infraorbital foramen location,0,0,2,1,2,2,0,NA,0,0
+4,Cranial,Anterior pillars,0,0,0,1,2,0,1,0,0,0
+5,Cranial,Nasoalveolar clivus contour in coronal plane,0,0,2,1,2,2,1,1,1,0
+6,Cranial,Protrusion of incisor alveoli beyond bicanine line (basal view),0,0,1,0,1,1,0,1,0,0
+7,Cranial,Nasal cavity entrance,0,0,2,0,2,2,1,0,0,3
+8,Cranial,Palate thickness,0,0,1,0,1,1,0,0,0,0
+9,Cranial,Height of the masseter origin,0,0,1,1,1,1,0,0,0,0
+10,Cranial,M-L thickness of zygomatic arch at root of frontal process,0,0,1,0,1,1,0,NA,0,0
+11,Cranial,Anterior projection of zygomatic bone relative to piriform aperture (dishing),0,0,3,1,3,3,0,2,0,0
+12,Cranial,Anterior palatal depth,0,0,0,2,0,2,1,2,2,2
+13,Cranial,Index of palate protrusion anterior to sellion (facial prognathism),0,0,0,1,2,2,2,2,3,3
+14,Cranial,Masseteric position relative to sellion,0,1,1,0,1,1,0,NA,0,0
+15,Cranial,Maxillary trigon (zygomaticomaxillary step),0,0,1,0,1,0,0,0,0,0
+16,Cranial,Cranial capacity,0,0,0,1,1,1,2,3,3,4
+17,Cranial,Cerebellar morphology,0,0,0,0,1,1,1,1,1,1
+18,Cranial,O-M sinus present in high frequency,0,2,0,1,2,2,0,0,NA,1
+19,Cranial,Anteromedial incursion of the superior temporal lines,2,2,3,2,3,3,1,0,0,0
+20,Cranial,Sagittal crest present in presumptive males,1,0,0,0,0,0,1,1,1,1
+21,Cranial,"Compound T/N crest, at least in presumptive males",0,0,0,2,NA,1,1,2,2,2
+22,Cranial,Asterionic notch,0,0,0,2,2,2,1,2,2,2
+23,Cranial,Parietal overlap of occipital at asterion,0,0,1,0,0,1,0,0,0,0
+24,Cranial,"Squamosal suture overlap extensive, at least in males",0,0,1,0,NA,1,0,0,0,0
+25,Cranial,Latera inflation of mastoid process relative to supermastoid crest,0,0,2,0,2,2,1,0,0,0
+26,Cranial,Postorbital constriction,1,1,0,1,0,0,1,1,1,2
+27,Cranial,Pneumatization of temporal squama,0,0,0,0,2,1,2,2,2,2
+28,Cranial,Facial hafting,0,0,1,0,1,1,0,0,0,0
+29,Cranial,Supraglenoid gutter width,0,0,1,0,1,1,0,0,0,0
+30,Cranial,External cranial base flexion,0,NA,0,1,2,2,2,NA,2,2
+31,Cranial,Horizontal distance between TMJ and M2/M3,0,0,0,0,0,0,1,0,1,1
+32,Cranial,Relative depth of mandibular fossa,0,0,0,2,2,3,2,2,1,3
+33,Cranial,Postglenoid process size and position,0,0,1,1,3,3,2,1,3,3
+34,Cranial,Configuration of tympanic,0,0,1,1,1,2,1,NA,1,1
+35,Cranial,Medio-lateral position of external auditory meatus,0,0,0,0,2,2,1,0,0,0
+36,Postcranial,Vaginal process,0,0,0,0,2,2,1,NA,2,2
+37,Postcranial,Eustacian process of tympanic,0,1,1,0,0,1,1,NA,1,1
+38,Cranial,Petrous orientation,0,1,2,1,2,2,2,2,2,2
+39,Cranial,Heart shaped foramen magnum,0,0,2,0,0,2,0,NA,1,0
+40,Cranial,Inclination nuchal plane,0,1,2,2,2,2,2,2,2,2
+41,Cranial,Position of foramen magnum relative to bi-tympanic line,0,1,1,1,3,3,2,NA,1,1
+42,Cranial,Inclination of foramen magnum,0,NA,NA,0,1,1,1,NA,2,1
+43,Cranial,Origin of digastric muscle,0,0,NA,0,1,0,1,NA,1,1
+44,Dental,Mandibular cross-sectional area at M1,0,0,2,0,2,2,0,1,0,0
+45,Dental ,Orientation of mandibular symphysis,0,1,2,1,2,2,2,2,2,2
+46,Dental ,Direction of mental foramen opening ,0,1,2,1,2,2,2,2,2,3
+47,Dental ,Hollowing above and behind mental foramen,0,0,2,1,2,2,2,1,2,2
+48,Dental ,Width of mandibular extramolar sulcus ,0,0,2,1,2,2,1,0,0,0
+49,Dental ,Mandibular deciduous canine shape,0,0,NA,0,1,1,NA,NA,0,0
+50,Dental ,Incisal reduction,0,1,1,1,2,2,1,1,1,2
+51,Dental ,Canines reduced,0,1,2,1,2,2,2,2,2,2
+52,Dental ,Prominence of median lingual ridge,0,0,NA,1,2,2,2,2,2,2
+53,Dental ,Premolar crown area,0,1,3,2,2,3,1,2,0,0
+54,Dental ,Molar crown area,0,1,3,2,2,3,1,2,0,0
+55,Dental ,dM1 mesial crown profile,0,1,2,1,2,2,NA,NA,1,1
+56,Dental ,Distal marginal ridge of dM2,0,0,NA,0,1,1,0,0,NA,0
+57,Dental ,Separation of molar and premolar cusp apices,0,0,2,1,2,2,0,0,0,0
+58,Dental ,Frequency of well developed P3,0,1,2,2,2,2,2,2,2,2
+59,Dental ,Relative enamel thickness,0,1,2,1,2,2,1,1,1,1
+60,Dental ,Dental development rate,0,0,NA,0,2,2,NA,0,1,1

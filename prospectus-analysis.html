@@ -358,11 +358,20 @@ display: none;
 
 
 <p>#Preliminaries</p>
-<pre class="load"><code>library(ape)
+<pre class="load"><code>library(utils)
+library(ape)
 library(phytools)
 library(tidyr)
 library(ggplot2)
 library(data.table)</code></pre>
+<p>#Read in Files</p>
+<pre class="read"><code>#Strait 1997 Matrix
+strait97_matrix &lt;-read.csv(&quot;/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/strait 1997 matrix(Matrix).csv&quot;)
+strait97_codekey &lt;-read.csv(&quot;/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/strait 1997 matrix(Code Key).csv&quot;)
+
+#Dembo 2015 Matrix
+dembo15_matrix &lt;- read.csv(&quot;/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/dembo 2015 matrix(matrix).csv&quot;)
+dembo15_codekey &lt;- read.csv(&quot;/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/dembo 2015 matrix(Code Key).csv&quot;)</code></pre>
 <div id="simulate-a-tree-with-10-hominin-species" class="section level1">
 <h1>Simulate a tree with 10 hominin species</h1>
 <pre class="simulation"><code>set.seed(42)
@@ -394,6 +403,7 @@ tiplabels(pch=21, bg=c(&quot;lightblue&quot;, &quot;orange&quot;)[char_states+1]
 <pre class="continuous"><code>fit_cont &lt;- fastAnc(tree, cranial_capacity, CI=TRUE)
 print(fit_cont$ace) # Estimated ancestral values at each node</code></pre>
 <pre class="phylogeny"><code>phenogram(tree, cranial_capacity, ftype=&quot;off&quot;, main=&quot;Cranial Capacity Evolution&quot;)</code></pre>
+<pre class="read"><code></code></pre>
 </div>
 
 

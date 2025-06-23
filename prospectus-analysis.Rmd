@@ -11,11 +11,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #Preliminaries
 ```{Load in Prelim libraries}
+library(utils)
 library(ape)
 library(phytools)
 library(tidyr)
 library(ggplot2)
 library(data.table)
+```
+
+#Read in Files
+```{Read in necessary matrix files}
+#Strait 1997 Matrix
+strait97_matrix <-read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/strait 1997 matrix(Matrix).csv")
+strait97_codekey <-read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/strait 1997 matrix(Code Key).csv")
+
+#Dembo 2015 Matrix
+dembo15_matrix <- read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/dembo 2015 matrix(matrix).csv")
+dembo15_codekey <- read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/dembo 2015 matrix(Code Key).csv")
 ```
 
 # Simulate a tree with 10 hominin species
@@ -60,3 +72,6 @@ print(fit_cont$ace) # Estimated ancestral values at each node
 phenogram(tree, cranial_capacity, ftype="off", main="Cranial Capacity Evolution")
 ```
 
+```{Read Hominin Characters}
+
+```
