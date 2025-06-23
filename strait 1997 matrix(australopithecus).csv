@@ -1,0 +1,61 @@
+No.,Anatomical Region,Character,,A_afarensis,A_aethiopicus,A_africanus,P_robustus,P_boisei
+1,Cranial,Projection of nasal bones above frontomaxillary suture,,"Projected, expanded","Projected, expanded",Variable,"Projected, expanded","Projected, expanded"
+2,Cranial,Inferior orbital margin rounded laterally,,No,Yes,No,Yes,No
+3,Cranial,Infraorbital foramen location,,High,Low, Variable,Low,Low
+4,Cranial,Anterior pillars,,Absent,Absent,Variable,Present,Absent
+5,Cranial,Nasoalveolar clivus contour in coronal plane,,Convex,Concave (gutter),Straight,Concave (gutter),Concave (gutter)
+6,Cranial,Protrusion of incisor alveoli beyond bicanine line (basal view),,Yes,No,Yes,No,No
+7,Cranial,Nasal cavity entrance,,Stepped,"Smooth, overlap",Stepped,"Smooth, overlap","Smooth, overlap"
+8,Cranial,Palate thickness,,Thin,Thick,Thin,Thick,Thick
+9,Cranial,Height of the masseter origin,,Low,High,High,High,High
+10,Cranial,M-L thickness of zygomatic arch at root of frontal process,,Thin,Thick,Thin,Thick,Thick
+11,Cranial,Anterior projection of zygomatic bone relative to piriform aperture (dishing),,Posterior,Anterior (dished),Variable posterior-interior,Anterior (dished),Anterior (dished)
+12,Cranial,Anterior palatal depth,,Shallow,Shallow,Deep (shelved),Shallow,Deep (shelved)
+13,Cranial,Index of palate protrusion anterior to sellion (facial prognathism),,Prognathic,Prognathic,Variable prognathic-mesognathic,Mesognathic,Mesognathic
+14,Cranial,Masseteric position relative to sellion,,At or anterior,At or anterior,At or posterior,At or anterior,At or anterior
+15,Cranial,Maxillary trigon (zygomaticomaxillary step),,Absent,Present,Absent,Present,Absent
+16,Cranial,Cranial capacity,,<500 cm^3,<500 cm^3,400-500 cm^3,400-500 cm^3,400-500 cm^3
+17,Cranial,Cerebellar morphology,,"Lateral flare, posterior protrusion","Lateral flare, posterior protrusion","Lateral flare, posterior protrusion",Tucked,Tucked
+18,Cranial,O-M sinus present in high frequency,,Yes,No,Intermediate,Yes,Yes
+19,Cranial,Anteromedial incursion of the superior temporal lines,,Moderate,Strong,Moderate,Moderate,Strong
+20,Cranial,Sagittal crest present in presumptive males,,Yes,Yes,Yes,Yes,Yes
+21,Cranial,"Compound T/N crest, at least in presumptive males",,Extensive,Extensive,Absent,NA,Partial
+22,Cranial,Asterionic notch,,Present,Present,Absent,Absent,Absent
+23,Cranial,Parietal overlap of occipital at asterion,,No,Yes,No,No,Yes
+24,Cranial,"Squamosal suture overlap extensive, at least in males",,Not extensive,Extensive,Not extensive,NA,Extensive
+25,Cranial,Latera inflation of mastoid process relative to supermastoid crest,,Not inflated,Inflated,Not inflated,Inflated,Inflated
+26,Cranial,Postorbital constriction,,Moderate,Marked,Moderate,Marked,Marked
+27,Cranial,Pneumatization of temporal squama,,Extensive,Extensive,Extensive,Reduced,Variable
+28,Cranial,Facial hafting,,Low,High,Low,High,High
+29,Cranial,Supraglenoid gutter width,,Narrow,Wide,Narrow,Wide,Wide
+30,Cranial,External cranial base flexion,,NA,Flat,Moderate,Flexed,Flexed
+31,Cranial,Horizontal distance between TMJ and M2/M3,,Long,Long,Long,Long,Long
+32,Cranial,Relative depth of mandibular fossa,,Shallow,Shallow,Intermediate,Intermediate,Deep
+33,Cranial,Postglenoid process size and position,,Large and anterior,Intermediate,Intermediate,Small and fused tympanic,Small and fused tympanic
+34,Cranial,Configuration of tympanic,,Tubular (or weak crest),Crest with vertical plate ,Crest with vertical plate,Crest with vertical plate,Crest with inclined plate
+35,Cranial,Medio-lateral position of external auditory meatus,,Medial,Medial,Medial,Lateral,Lateral
+36,Postcranial,Vaginal process,,Small or absent,Small or absent,Small or absent,Moderate to large,Moderate to large
+37,Postcranial,Eustacian process of tympanic,,Absent or slight,Absent or slight,Present and prominent,Present and prominent,Absent or slight
+38,Cranial,Petrous orientation,,Intermediate,Coronal,Intermediate,Coronal,Coronal
+39,Cranial,Heart shaped foramen magnum,,Absent,Present,Absent,Absent,Present
+40,Cranial,Inclination nuchal plane,,Intermediate,Weakly inclined,Weakly inclined,Weakly inclined,Weakly inclined
+41,Cranial,Position of foramen magnum relative to bi-tympanic line,,At bi-tympanic line,At bi-tympanic line,At bi-tympanic line,Well anterior,Well anterior
+42,Cranial,Inclination of foramen magnum,,NA,NA,Strongly inclined,Roughly horizontal,Roughly horizontal
+43,Cranial,Origin of digastric muscle,,"Broad, shallow fossa",NA,"Broad, shallow fossa","Deep, narrow notch ","Broad, shallow fossa"
+44,Dental,Mandibular cross-sectional area at M1,,Small,Large,Small,Large,Large
+45,Dental,Orientation of mandibular symphysis,,Intermediate,Vertical,Intermediate,Vertical,Vertical
+46,Dental,Direction of mental foramen opening,,Variable,Lateral,Variable,Lateral,Lateral
+47,Dental,Hollowing above and behind mental foramen,,Present,Absent,Variable,Absent,Absent
+48,Dental,Width of mandibular extramolar sulcus,,Narrow,Wide,Variable,Wide,Wide
+49,Dental,Mandibular deciduous canine shape,,"Apex, central",NA,"Apex, central","Apex mesial, mesial","Apex mesial, mesial"
+50,Dental,Incisal reduction,,Moderate,Moderate,Moderate,Yes,Yes
+51,Dental,Canines reduced,,Somewhat,Very,Somewhat,Very,Very
+52,Dental,Prominence of median lingual ridge,,Prominent,NA,Variable,Weakly,Weakly
+53,Dental,Premolar crown area,,1,3,2,2,3
+54,Dental,Molar crown area,,1,Largest,2,2,Largest
+55,Dental,dM1 mesial crown profile,,"MMR slight, protoconid anterior, fovea open","MMR Thick, protoconid even with metaconid, fovea closed","MMR slight, protoconid anterior, fovea open","MMR Thick, protoconid even with metaconid, fovea closed","MMR Thick, protoconid even with metaconid, fovea closed"
+56,Dental,Distal marginal ridge of dM2,,Low,NA,Low,High,High
+57,Dental,Separation of molar and premolar cusp apices,,Wide,Narrow,Intermediate,Narrow,Narrow
+58,Dental,Frequency of well developed P3,,Infrequent,Frequent,Frequent,Frequent,Frequent
+59,Dental,Relative enamel thickness,,Thick,Hyperthick,Thick,Hyperthick,Hyperthick
+60,Dental,Dental development rate,,Delayed,NA,Delayed,Accelerated,Accelerated
