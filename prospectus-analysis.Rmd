@@ -14,7 +14,6 @@ knitr::opts_chunk$set(echo = TRUE)
 library(utils)
 library(dplyr)
 library(tidyr)
-library(data.table)
 library(ape)
 library(phytools)
 library(ggplot2)
@@ -25,7 +24,7 @@ library(ggplot2)
 #Strait 1997 Matrix Australopithecines ONLY
 strait97_Aus_matrix <-read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/strait 1997 matrix(australopithecus).csv")
 
-strait97_Aus_matrix <- strait97_Aus_matrix[, -c(4)] #Clear our empty columns
+strait97_Aus_matrix <- strait97_Aus_matrix[, -c(4)] #Clear our empty columns (i.e X, X.1, etc.)
 
 strait97_codekey <-read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/strait 1997 matrix(Code Key).csv") #Load in code key from Strait 1997 
 ```
@@ -34,7 +33,7 @@ strait97_codekey <-read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospe
 #Dembo 2015 Matrix Australopithecines ONLY
 dembo15_Aus_matrix <- read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/dembo 2015 matrix(australopithecus).csv")
 
-dembo15_Aus_matrix <- dembo15_Aus_matrix[, -c(14:29)] #Clear our empty columns
+dembo15_Aus_matrix <- dembo15_Aus_matrix[, -c(14:29)] #Clear our empty columns (i.e X, X.1, etc.)
 
 dembo15_codekey <- read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospectus-analysis/dembo 2015 matrix(Code Key).csv") # Load in code key from Box folder
 ```
@@ -43,18 +42,18 @@ dembo15_codekey <- read.csv("/Users/jyhrehjohnson/Documents/UT/Prospectus/prospe
 ```{Merge data frames}
 merged_matrix <- merge(strait97_Aus_matrix, dembo15_Aus_matrix, by = "Character", all = TRUE)
 
-merged_matrix <- merged_matrix[, -c(22:36)]
+merged_matrix <- merged_matrix[, -c(2, 9, 12, 22:36)] #Clear our empty columns (i.e X, X.1, etc.)
 ```
 
-# Simulate a tree with 10 hominin species
+# Practice simple Simulation: Simulate a tree with 10 hominin species 
 ```{Simulation}
 set.seed(42)
 tree <- rtree(10)
-tree$tip.label <- c("A_afarensis", "A_africanus", "P_boisei", "P_robustus","P_aethiopicus", "A_garhi", "A_sediba", "A_deyiremida","A_bahrelghazali", "A_anamensis")
+tree$tip.label <- c("A_anamensis", "A_afarensis", "A_deyiremida", "A_africanus", "A_bahrelghazali", "A_garhi", "A_sediba", "P_aethiopicus", "P_boisei", "P_robustus") #hominins in chronological order
 plot(tree, main="Hominin Phylogeny")
 ```
 
-# Character State Scores: 0 = absent, 1 = present
+# For Discrete Trait (i.e 0 = absent, 1 = present) Code can be changed for other specific traits 
 ```{Character State Scores}
 char_states <- c(1, 1, 0, 1, 0, 0, 0, 1, 0, 1)
 names(char_states) <- tree$tip.label
@@ -72,13 +71,14 @@ fit_disc <- ace(char_states, tree, type="discrete", model="ER")
 print(fit_disc$lik.anc) # Likelihood of each state at each node
 ```
 
+# Estimate Ancestral State Reconstruction for a Discrete Traits
 ```{Disctrete Trait: Reconstruction}
 plot(tree, main="Ancestral State Estimation (Discrete)")
 nodelabels(pie=fit_disc$lik.anc, piecol=c("lightblue", "orange"), cex=0.7)
 tiplabels(pch=21, bg=c("lightblue", "orange")[char_states+1], cex=1.2)
 ```
 
-# Estimate ancestral states for a continuous character
+# Estimate Ancestral State Reconstruction for a Continuous Trait
 ```{Continuous Trait}
 fit_cont <- fastAnc(tree, cranial_capacity, CI=TRUE)
 print(fit_cont$ace) # Estimated ancestral values at each node
